@@ -1,0 +1,8037 @@
+{
+  "version": 1,
+  "generated": "2026-10-22",
+  "items": {
+    "AUTO-Q-01": {
+      "url": "art/vehicles/AUTO-Q-01.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#493723",
+      "e": "#382d18",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-02": {
+      "url": "art/vehicles/AUTO-Q-02.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#4d321b",
+      "e": "#2f2111",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-03": {
+      "url": "art/vehicles/AUTO-Q-03.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#554022",
+      "e": "#433117",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-04": {
+      "url": "art/vehicles/AUTO-Q-04.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#463312",
+      "e": "#372a17",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-05": {
+      "url": "art/vehicles/AUTO-Q-05.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#58492f",
+      "e": "#3e341f",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-06": {
+      "url": "art/vehicles/AUTO-Q-06.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#4e3511",
+      "e": "#2b2311",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-07": {
+      "url": "art/vehicles/AUTO-Q-07.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#443e28",
+      "e": "#352b13",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-08": {
+      "url": "art/vehicles/AUTO-Q-08.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#503d15",
+      "e": "#3b3211",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-09": {
+      "url": "art/vehicles/AUTO-Q-09.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#513e19",
+      "e": "#383311",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-10": {
+      "url": "art/vehicles/AUTO-Q-10.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#4f341c",
+      "e": "#3b2718",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-11": {
+      "url": "art/vehicles/AUTO-Q-11.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#593406",
+      "e": "#5c3008",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-12": {
+      "url": "art/vehicles/AUTO-Q-12.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#522e0f",
+      "e": "#2e2810",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-13": {
+      "url": "art/vehicles/AUTO-Q-13.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#684621",
+      "e": "#4b391a",
+      "kannada": "unreviewed"
+    },
+    "AUTO-Q-14": {
+      "url": "art/vehicles/AUTO-Q-14.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "q"
+      ],
+      "c": "#53402b",
+      "e": "#3d3426",
+      "kannada": "unreviewed"
+    },
+    "BAN-BDAY-01": {
+      "url": "art/banners/BAN-BDAY-01.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "birthday",
+        "junction"
+      ],
+      "c": "#997b47",
+      "e": "#918a5d",
+      "kannada": "unreviewed"
+    },
+    "BAN-BDAY-02": {
+      "url": "art/banners/BAN-BDAY-02.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "birthday",
+        "junction"
+      ],
+      "c": "#9fa282",
+      "e": "#a5a88a",
+      "kannada": "unreviewed"
+    },
+    "BAN-BDAY-03": {
+      "url": "art/banners/BAN-BDAY-03.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "birthday",
+        "junction"
+      ],
+      "c": "#e3a490",
+      "e": "#e7b2a1",
+      "kannada": "unreviewed"
+    },
+    "BAN-BDAY-04": {
+      "url": "art/banners/BAN-BDAY-04.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "birthday",
+        "junction"
+      ],
+      "c": "#a59766",
+      "e": "#9f9767",
+      "kannada": "unreviewed"
+    },
+    "BAN-BDAY-05": {
+      "url": "art/banners/BAN-BDAY-05.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "birthday",
+        "junction"
+      ],
+      "c": "#ab9a71",
+      "e": "#ad9c76",
+      "kannada": "unreviewed"
+    },
+    "BAN-BDAY-06": {
+      "url": "art/banners/BAN-BDAY-06.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "birthday",
+        "junction"
+      ],
+      "c": "#9f9774",
+      "e": "#9b9a7b",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-01": {
+      "url": "art/banners/BAN-EVT-01.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#b58d65",
+      "e": "#a9916e",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-02": {
+      "url": "art/banners/BAN-EVT-02.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#a3835c",
+      "e": "#a1937d",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-03": {
+      "url": "art/banners/BAN-EVT-03.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#a0863a",
+      "e": "#a78846",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-04": {
+      "url": "art/banners/BAN-EVT-04.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#a8805b",
+      "e": "#9d815e",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-05": {
+      "url": "art/banners/BAN-EVT-05.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#ce904e",
+      "e": "#cc8e41",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-07": {
+      "url": "art/banners/BAN-EVT-07.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#bf8f5a",
+      "e": "#c3a167",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-08": {
+      "url": "art/banners/BAN-EVT-08.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#96987b",
+      "e": "#91927e",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-09": {
+      "url": "art/banners/BAN-EVT-09.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#b09561",
+      "e": "#bd935f",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-10": {
+      "url": "art/banners/BAN-EVT-10.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#8a4c31",
+      "e": "#773b33",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-11": {
+      "url": "art/banners/BAN-EVT-11.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#a28b6e",
+      "e": "#a39074",
+      "kannada": "unreviewed"
+    },
+    "BAN-EVT-12": {
+      "url": "art/banners/BAN-EVT-12.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "event"
+      ],
+      "c": "#c56a43",
+      "e": "#c25f3c",
+      "kannada": "unreviewed"
+    },
+    "BAN-POL-01": {
+      "url": "art/banners/BAN-POL-01.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "political",
+        "junction"
+      ],
+      "c": "#86956a",
+      "e": "#78946d",
+      "kannada": "unreviewed"
+    },
+    "BAN-POL-02": {
+      "url": "art/banners/BAN-POL-02.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "political",
+        "junction"
+      ],
+      "c": "#87976d",
+      "e": "#879d71",
+      "kannada": "unreviewed"
+    },
+    "BAN-POL-03": {
+      "url": "art/banners/BAN-POL-03.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "political",
+        "junction"
+      ],
+      "c": "#90a492",
+      "e": "#8da89a",
+      "kannada": "unreviewed"
+    },
+    "BAN-POL-04": {
+      "url": "art/banners/BAN-POL-04.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "political",
+        "junction"
+      ],
+      "c": "#93a688",
+      "e": "#88ab96",
+      "kannada": "unreviewed"
+    },
+    "BAN-POL-05": {
+      "url": "art/banners/BAN-POL-05.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "political",
+        "junction"
+      ],
+      "c": "#a1a88c",
+      "e": "#a1b096",
+      "kannada": "unreviewed"
+    },
+    "BAN-POL-06": {
+      "url": "art/banners/BAN-POL-06.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "flex",
+        "political",
+        "junction"
+      ],
+      "c": "#999e77",
+      "e": "#8ca381",
+      "kannada": "unreviewed"
+    },
+    "BAN-V-01": {
+      "url": "art/banners/BAN-V-01.webp",
+      "w": 341,
+      "h": 1024,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "tall",
+        "flex",
+        "political",
+        "pole"
+      ],
+      "c": "#95a88d",
+      "e": "#8eaa96",
+      "kannada": "unreviewed"
+    },
+    "BAN-V-02": {
+      "url": "art/banners/BAN-V-02.webp",
+      "w": 341,
+      "h": 1024,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "tall",
+        "flex",
+        "political",
+        "pole"
+      ],
+      "c": "#90a48a",
+      "e": "#80a594",
+      "kannada": "unreviewed"
+    },
+    "BAN-V-03": {
+      "url": "art/banners/BAN-V-03.webp",
+      "w": 341,
+      "h": 1024,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "tall",
+        "flex",
+        "political",
+        "pole"
+      ],
+      "c": "#9bab95",
+      "e": "#9eb29e",
+      "kannada": "unreviewed"
+    },
+    "BAN-V-04": {
+      "url": "art/banners/BAN-V-04.webp",
+      "w": 341,
+      "h": 1024,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "tall",
+        "flex",
+        "political",
+        "pole"
+      ],
+      "c": "#8ea58f",
+      "e": "#96b099",
+      "kannada": "unreviewed"
+    },
+    "BLR-BAR-01": {
+      "url": "art/banners/BLR-BAR-01.webp",
+      "w": 1024,
+      "h": 357,
+      "alpha": false,
+      "category": "barricade",
+      "tags": [
+        "barricade",
+        "wide"
+      ],
+      "c": "#6b8eaa",
+      "e": "#537da0",
+      "kannada": "unreviewed"
+    },
+    "BLR-BUS-01": {
+      "url": "art/vehicles/BLR-BUS-01.webp",
+      "w": 1024,
+      "h": 341,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "wide",
+        "bus"
+      ],
+      "c": "#90b5b4",
+      "e": "#7fafad"
+    },
+    "BLR-FLEX-01": {
+      "url": "art/banners/BLR-FLEX-01.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "banner",
+      "tags": [
+        "banner",
+        "std",
+        "matchnight",
+        "flex"
+      ],
+      "c": "#ae3f1d",
+      "e": "#aa391d"
+    },
+    "BLR-FX-01": {
+      "url": "art/details/BLR-FX-01.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": true,
+      "category": "detail",
+      "tags": [
+        "detail",
+        "std"
+      ],
+      "c": "#333738",
+      "e": "#363a3c"
+    },
+    "BLR-POS-01": {
+      "url": "art/posters/BLR-POS-01.webp",
+      "w": 512,
+      "h": 768,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "film"
+      ],
+      "c": "#87542a",
+      "e": "#91573c",
+      "kannada": "unreviewed"
+    },
+    "BLR-POS-02": {
+      "url": "art/posters/BLR-POS-02.webp",
+      "w": 512,
+      "h": 768,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "film"
+      ],
+      "c": "#846438",
+      "e": "#716445"
+    },
+    "BLR-POS-03": {
+      "url": "art/posters/BLR-POS-03.webp",
+      "w": 512,
+      "h": 768,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "film"
+      ],
+      "c": "#546a4c",
+      "e": "#4a6756"
+    },
+    "BLR-POS-04": {
+      "url": "art/posters/BLR-POS-04.webp",
+      "w": 512,
+      "h": 768,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "film"
+      ],
+      "c": "#734758",
+      "e": "#603e52"
+    },
+    "BLR-POS-05": {
+      "url": "art/posters/BLR-POS-05.webp",
+      "w": 512,
+      "h": 768,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#655d34",
+      "e": "#595839"
+    },
+    "BLR-POS-06": {
+      "url": "art/posters/BLR-POS-06.webp",
+      "w": 512,
+      "h": 768,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#bb6b3a",
+      "e": "#d56128"
+    },
+    "BLR-SIGN-01": {
+      "url": "art/details/BLR-SIGN-01.webp",
+      "w": 512,
+      "h": 506,
+      "alpha": true,
+      "category": "detail",
+      "tags": [
+        "detail",
+        "std"
+      ],
+      "c": "#8d6844",
+      "e": "#916741"
+    },
+    "GND-CRACK-01": {
+      "url": "art/ground/GND-CRACK-01.webp",
+      "w": 507,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "crack"
+      ],
+      "c": "#000000",
+      "e": "#000000"
+    },
+    "GND-CRACK-02": {
+      "url": "art/ground/GND-CRACK-02.webp",
+      "w": 512,
+      "h": 511,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "crack"
+      ],
+      "c": "#020202",
+      "e": "#010101"
+    },
+    "GND-CRACK-03": {
+      "url": "art/ground/GND-CRACK-03.webp",
+      "w": 482,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "crack"
+      ],
+      "c": "#000000",
+      "e": "#000000"
+    },
+    "GND-CRACK-04": {
+      "url": "art/ground/GND-CRACK-04.webp",
+      "w": 485,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "crack"
+      ],
+      "c": "#000000",
+      "e": "#000000"
+    },
+    "GND-GARB-01": {
+      "url": "art/ground/GND-GARB-01.webp",
+      "w": 512,
+      "h": 468,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "garb"
+      ],
+      "c": "#705c3e",
+      "e": "#665a3b"
+    },
+    "GND-GARB-02": {
+      "url": "art/ground/GND-GARB-02.webp",
+      "w": 512,
+      "h": 487,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "garb"
+      ],
+      "c": "#755d3a",
+      "e": "#56492e"
+    },
+    "GND-GARB-03": {
+      "url": "art/ground/GND-GARB-03.webp",
+      "w": 512,
+      "h": 503,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "garb"
+      ],
+      "c": "#725837",
+      "e": "#5d482d"
+    },
+    "GND-GARB-04": {
+      "url": "art/ground/GND-GARB-04.webp",
+      "w": 512,
+      "h": 497,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "garb"
+      ],
+      "c": "#755939",
+      "e": "#6f563c"
+    },
+    "GND-LEAF-01": {
+      "url": "art/ground/GND-LEAF-01.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "leaf"
+      ],
+      "c": "#896630",
+      "e": "#7c622d"
+    },
+    "GND-LEAF-02": {
+      "url": "art/ground/GND-LEAF-02.webp",
+      "w": 512,
+      "h": 498,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "leaf"
+      ],
+      "c": "#916a30",
+      "e": "#8b622e"
+    },
+    "GND-LITTER-01": {
+      "url": "art/ground/GND-LITTER-01.webp",
+      "w": 512,
+      "h": 497,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "litter"
+      ],
+      "c": "#947b5f",
+      "e": "#97755b"
+    },
+    "GND-LITTER-02": {
+      "url": "art/ground/GND-LITTER-02.webp",
+      "w": 512,
+      "h": 506,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "litter"
+      ],
+      "c": "#8a7b5c",
+      "e": "#816a4d"
+    },
+    "GND-LITTER-03": {
+      "url": "art/ground/GND-LITTER-03.webp",
+      "w": 509,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "litter"
+      ],
+      "c": "#958063",
+      "e": "#917b61"
+    },
+    "GND-LITTER-04": {
+      "url": "art/ground/GND-LITTER-04.webp",
+      "w": 507,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "litter"
+      ],
+      "c": "#9e8867",
+      "e": "#9e8468"
+    },
+    "GND-MANHOLE-01": {
+      "url": "art/ground/GND-MANHOLE-01.webp",
+      "w": 512,
+      "h": 511,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "manhole"
+      ],
+      "c": "#62584e",
+      "e": "#5c5147"
+    },
+    "GND-MANHOLE-02": {
+      "url": "art/ground/GND-MANHOLE-02.webp",
+      "w": 512,
+      "h": 459,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "manhole"
+      ],
+      "c": "#4e4539",
+      "e": "#574b3d"
+    },
+    "GND-OIL-01": {
+      "url": "art/ground/GND-OIL-01.webp",
+      "w": 512,
+      "h": 416,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "oil"
+      ],
+      "c": "#3c3426",
+      "e": "#363221"
+    },
+    "GND-OIL-02": {
+      "url": "art/ground/GND-OIL-02.webp",
+      "w": 512,
+      "h": 371,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "oil"
+      ],
+      "c": "#3f3321",
+      "e": "#3d321f"
+    },
+    "GND-OIL-03": {
+      "url": "art/ground/GND-OIL-03.webp",
+      "w": 512,
+      "h": 444,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "oil"
+      ],
+      "c": "#3f3427",
+      "e": "#403624"
+    },
+    "GND-PETALS-01": {
+      "url": "art/ground/GND-PETALS-01.webp",
+      "w": 512,
+      "h": 492,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "petals"
+      ],
+      "c": "#ad4119",
+      "e": "#953d1d"
+    },
+    "GND-PETALS-02": {
+      "url": "art/ground/GND-PETALS-02.webp",
+      "w": 512,
+      "h": 511,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "petals"
+      ],
+      "c": "#a57556",
+      "e": "#926d50"
+    },
+    "GND-PETALS-03": {
+      "url": "art/ground/GND-PETALS-03.webp",
+      "w": 509,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "petals"
+      ],
+      "c": "#716672",
+      "e": "#675d6b"
+    },
+    "GND-POTHOLE-01": {
+      "url": "art/ground/GND-POTHOLE-01.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "pothole"
+      ],
+      "c": "#735a41",
+      "e": "#5a4c3f"
+    },
+    "GND-POTHOLE-02": {
+      "url": "art/ground/GND-POTHOLE-02.webp",
+      "w": 511,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "pothole"
+      ],
+      "c": "#6e5642",
+      "e": "#5d4e41"
+    },
+    "GND-POTHOLE-03": {
+      "url": "art/ground/GND-POTHOLE-03.webp",
+      "w": 512,
+      "h": 511,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "pothole"
+      ],
+      "c": "#775e46",
+      "e": "#594e42"
+    },
+    "GND-POTHOLE-04": {
+      "url": "art/ground/GND-POTHOLE-04.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "pothole"
+      ],
+      "c": "#735841",
+      "e": "#5e4e41"
+    },
+    "GND-PUDDLE-01": {
+      "url": "art/ground/GND-PUDDLE-01.webp",
+      "w": 512,
+      "h": 462,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "puddle"
+      ],
+      "c": "#212830",
+      "e": "#1c232a"
+    },
+    "GND-PUDDLE-02": {
+      "url": "art/ground/GND-PUDDLE-02.webp",
+      "w": 512,
+      "h": 504,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "puddle"
+      ],
+      "c": "#232b32",
+      "e": "#1f262c"
+    },
+    "GND-RANGOLI-01": {
+      "url": "art/ground/GND-RANGOLI-01.webp",
+      "w": 512,
+      "h": 489,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "rangoli"
+      ],
+      "c": "#bcbbb5",
+      "e": "#b1b1ac"
+    },
+    "GND-RANGOLI-02": {
+      "url": "art/ground/GND-RANGOLI-02.webp",
+      "w": 512,
+      "h": 504,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "rangoli"
+      ],
+      "c": "#a7a9a4",
+      "e": "#636462"
+    },
+    "GND-RANGOLI-03": {
+      "url": "art/ground/GND-RANGOLI-03.webp",
+      "w": 475,
+      "h": 512,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "rangoli"
+      ],
+      "c": "#c66d4e",
+      "e": "#d37a53"
+    },
+    "GND-RANGOLI-04": {
+      "url": "art/ground/GND-RANGOLI-04.webp",
+      "w": 512,
+      "h": 502,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "rangoli"
+      ],
+      "c": "#b84d94",
+      "e": "#be648c"
+    },
+    "GND-RANGOLI-05": {
+      "url": "art/ground/GND-RANGOLI-05.webp",
+      "w": 512,
+      "h": 498,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "rangoli"
+      ],
+      "c": "#968f78",
+      "e": "#5b939a"
+    },
+    "GND-RANGOLI-06": {
+      "url": "art/ground/GND-RANGOLI-06.webp",
+      "w": 512,
+      "h": 510,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "rangoli"
+      ],
+      "c": "#a6aaa2",
+      "e": "#a0a49f"
+    },
+    "GND-SAND-01": {
+      "url": "art/ground/GND-SAND-01.webp",
+      "w": 512,
+      "h": 498,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "std",
+        "decal",
+        "sand"
+      ],
+      "c": "#b1864d",
+      "e": "#9c7f53"
+    },
+    "GND-SKID-01": {
+      "url": "art/ground/GND-SKID-01.webp",
+      "w": 512,
+      "h": 129,
+      "alpha": true,
+      "category": "ground",
+      "tags": [
+        "ground",
+        "wide",
+        "decal",
+        "skid"
+      ],
+      "c": "#0a0e0a",
+      "e": "#090c09"
+    },
+    "GRAF-01": {
+      "url": "art/graffiti/GRAF-01.webp",
+      "w": 512,
+      "h": 311,
+      "alpha": true,
+      "category": "graffiti",
+      "tags": [
+        "graffiti",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#686c27",
+      "e": "#897a21"
+    },
+    "GRAF-02": {
+      "url": "art/graffiti/GRAF-02.webp",
+      "w": 512,
+      "h": 382,
+      "alpha": true,
+      "category": "graffiti",
+      "tags": [
+        "graffiti",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#ad7235",
+      "e": "#a26c2e"
+    },
+    "GRAF-03": {
+      "url": "art/graffiti/GRAF-03.webp",
+      "w": 512,
+      "h": 262,
+      "alpha": true,
+      "category": "graffiti",
+      "tags": [
+        "graffiti",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#6d784f",
+      "e": "#576748"
+    },
+    "GRAF-04": {
+      "url": "art/graffiti/GRAF-04.webp",
+      "w": 512,
+      "h": 244,
+      "alpha": true,
+      "category": "graffiti",
+      "tags": [
+        "graffiti",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#d8c40e",
+      "e": "#e4d30d"
+    },
+    "GRAF-05": {
+      "url": "art/graffiti/GRAF-05.webp",
+      "w": 512,
+      "h": 251,
+      "alpha": true,
+      "category": "graffiti",
+      "tags": [
+        "graffiti",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#8c8549",
+      "e": "#85804c"
+    },
+    "GRAF-06": {
+      "url": "art/graffiti/GRAF-06.webp",
+      "w": 512,
+      "h": 212,
+      "alpha": true,
+      "category": "graffiti",
+      "tags": [
+        "graffiti",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#129297",
+      "e": "#098285"
+    },
+    "GRAF-07": {
+      "url": "art/graffiti/GRAF-07.webp",
+      "w": 512,
+      "h": 248,
+      "alpha": true,
+      "category": "graffiti",
+      "tags": [
+        "graffiti",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#0b3b25",
+      "e": "#0c3723"
+    },
+    "GRAF-08": {
+      "url": "art/graffiti/GRAF-08.webp",
+      "w": 512,
+      "h": 254,
+      "alpha": true,
+      "category": "graffiti",
+      "tags": [
+        "graffiti",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#708c77",
+      "e": "#5f846c"
+    },
+    "GRIME-DAMP-01": {
+      "url": "art/grime/GRIME-DAMP-01.webp",
+      "w": 218,
+      "h": 512,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "tall",
+        "decal",
+        "damp"
+      ],
+      "c": "#272b0a",
+      "e": "#252907"
+    },
+    "GRIME-DAMP-02": {
+      "url": "art/grime/GRIME-DAMP-02.webp",
+      "w": 234,
+      "h": 512,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "tall",
+        "decal",
+        "damp"
+      ],
+      "c": "#1f2205",
+      "e": "#1f2502"
+    },
+    "GRIME-DAMP-03": {
+      "url": "art/grime/GRIME-DAMP-03.webp",
+      "w": 205,
+      "h": 512,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "tall",
+        "decal",
+        "damp"
+      ],
+      "c": "#2d310b",
+      "e": "#2c2e0a"
+    },
+    "GRIME-DAMP-04": {
+      "url": "art/grime/GRIME-DAMP-04.webp",
+      "w": 239,
+      "h": 512,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "tall",
+        "decal",
+        "damp"
+      ],
+      "c": "#242e08",
+      "e": "#1e2506"
+    },
+    "GRIME-HAND-01": {
+      "url": "art/grime/GRIME-HAND-01.webp",
+      "w": 256,
+      "h": 251,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "std",
+        "decal",
+        "hand"
+      ],
+      "c": "#61523e",
+      "e": "#61533f"
+    },
+    "GRIME-MOSS-01": {
+      "url": "art/grime/GRIME-MOSS-01.webp",
+      "w": 256,
+      "h": 30,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "wide",
+        "decal",
+        "moss"
+      ],
+      "c": "#363b06",
+      "e": "#373606"
+    },
+    "GRIME-MOSS-02": {
+      "url": "art/grime/GRIME-MOSS-02.webp",
+      "w": 256,
+      "h": 33,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "wide",
+        "decal",
+        "moss"
+      ],
+      "c": "#3b3c08",
+      "e": "#3c3a0b"
+    },
+    "GRIME-RUST-01": {
+      "url": "art/grime/GRIME-RUST-01.webp",
+      "w": 209,
+      "h": 512,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "tall",
+        "decal",
+        "rust"
+      ],
+      "c": "#855d0c",
+      "e": "#89610a"
+    },
+    "GRIME-RUST-02": {
+      "url": "art/grime/GRIME-RUST-02.webp",
+      "w": 176,
+      "h": 512,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "tall",
+        "decal",
+        "rust"
+      ],
+      "c": "#8c6d10",
+      "e": "#8c610f"
+    },
+    "GRIME-SOOT-01": {
+      "url": "art/grime/GRIME-SOOT-01.webp",
+      "w": 256,
+      "h": 262,
+      "alpha": true,
+      "category": "grime",
+      "tags": [
+        "grime",
+        "std",
+        "decal",
+        "soot"
+      ],
+      "c": "#10110f",
+      "e": "#070808"
+    },
+    "HRD-01": {
+      "url": "art/hoardings/HRD-01.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#7c6f4b",
+      "e": "#7e7252",
+      "kannada": "unreviewed"
+    },
+    "HRD-02": {
+      "url": "art/hoardings/HRD-02.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#aaa489",
+      "e": "#ada78b",
+      "kannada": "unreviewed"
+    },
+    "HRD-03": {
+      "url": "art/hoardings/HRD-03.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#a09d75",
+      "e": "#9c9c79",
+      "kannada": "unreviewed"
+    },
+    "HRD-04": {
+      "url": "art/hoardings/HRD-04.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#a99882",
+      "e": "#b29e87",
+      "kannada": "unreviewed"
+    },
+    "HRD-05": {
+      "url": "art/hoardings/HRD-05.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#98835a",
+      "e": "#998c6a",
+      "kannada": "unreviewed"
+    },
+    "HRD-06": {
+      "url": "art/hoardings/HRD-06.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#9a8a70",
+      "e": "#988871",
+      "kannada": "unreviewed"
+    },
+    "HRD-07": {
+      "url": "art/hoardings/HRD-07.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#867e65",
+      "e": "#8a876f",
+      "kannada": "unreviewed"
+    },
+    "HRD-08": {
+      "url": "art/hoardings/HRD-08.webp",
+      "w": 1024,
+      "h": 341,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "wide",
+        "brand",
+        "story"
+      ],
+      "c": "#a9a78c",
+      "e": "#9ea289",
+      "kannada": "unreviewed"
+    },
+    "HRD-09": {
+      "url": "art/hoardings/HRD-09.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#8c9381",
+      "e": "#96997f",
+      "kannada": "unreviewed"
+    },
+    "HRD-10": {
+      "url": "art/hoardings/HRD-10.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#b4a382",
+      "e": "#bca484",
+      "kannada": "unreviewed"
+    },
+    "HRD-11": {
+      "url": "art/hoardings/HRD-11.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#aa9460",
+      "e": "#ad9155",
+      "kannada": "unreviewed"
+    },
+    "HRD-13": {
+      "url": "art/hoardings/HRD-13.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#a16545",
+      "e": "#a36748",
+      "kannada": "unreviewed"
+    },
+    "HRD-14": {
+      "url": "art/hoardings/HRD-14.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#b19674",
+      "e": "#a4987f",
+      "kannada": "unreviewed"
+    },
+    "HRD-15": {
+      "url": "art/hoardings/HRD-15.webp",
+      "w": 1024,
+      "h": 341,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "wide",
+        "brand",
+        "film"
+      ],
+      "c": "#9d7757",
+      "e": "#907e68",
+      "kannada": "unreviewed"
+    },
+    "HRD-16": {
+      "url": "art/hoardings/HRD-16.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand",
+        "film"
+      ],
+      "c": "#997058",
+      "e": "#8b7158",
+      "kannada": "unreviewed"
+    },
+    "HRD-17": {
+      "url": "art/hoardings/HRD-17.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#856b46",
+      "e": "#7c6142",
+      "kannada": "unreviewed"
+    },
+    "HRD-18": {
+      "url": "art/hoardings/HRD-18.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#d59e78",
+      "e": "#d6a577",
+      "kannada": "unreviewed"
+    },
+    "HRD-19": {
+      "url": "art/hoardings/HRD-19.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#b3784d",
+      "e": "#b68157",
+      "kannada": "unreviewed"
+    },
+    "HRD-20": {
+      "url": "art/hoardings/HRD-20.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#93835d",
+      "e": "#8e835f",
+      "kannada": "unreviewed"
+    },
+    "HRD-21": {
+      "url": "art/hoardings/HRD-21.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#c29f73",
+      "e": "#c2a370",
+      "kannada": "unreviewed"
+    },
+    "HRD-22": {
+      "url": "art/hoardings/HRD-22.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#9f9b87",
+      "e": "#afa38c",
+      "kannada": "unreviewed"
+    },
+    "HRD-23": {
+      "url": "art/hoardings/HRD-23.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#928f76",
+      "e": "#999477",
+      "kannada": "unreviewed"
+    },
+    "HRD-24": {
+      "url": "art/hoardings/HRD-24.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#a8a789",
+      "e": "#aba683",
+      "kannada": "unreviewed"
+    },
+    "HRD-25": {
+      "url": "art/hoardings/HRD-25.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand",
+        "radio"
+      ],
+      "c": "#b97b5a",
+      "e": "#b87d5e",
+      "kannada": "unreviewed"
+    },
+    "HRD-26": {
+      "url": "art/hoardings/HRD-26.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand",
+        "radio"
+      ],
+      "c": "#908963",
+      "e": "#958f6c",
+      "kannada": "unreviewed"
+    },
+    "HRD-27": {
+      "url": "art/hoardings/HRD-27.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand",
+        "radio"
+      ],
+      "c": "#b38764",
+      "e": "#9c7656",
+      "kannada": "unreviewed"
+    },
+    "HRD-28": {
+      "url": "art/hoardings/HRD-28.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand",
+        "radio"
+      ],
+      "c": "#ae5c69",
+      "e": "#af5a6d",
+      "kannada": "unreviewed"
+    },
+    "HRD-29": {
+      "url": "art/hoardings/HRD-29.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand",
+        "radio"
+      ],
+      "c": "#817d6c",
+      "e": "#7a786e",
+      "kannada": "unreviewed"
+    },
+    "HRD-30": {
+      "url": "art/hoardings/HRD-30.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand",
+        "empty"
+      ],
+      "c": "#a19b71",
+      "e": "#9a9570",
+      "kannada": "unreviewed"
+    },
+    "HRD-31": {
+      "url": "art/hoardings/HRD-31.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#9e8c61",
+      "e": "#968a65",
+      "kannada": "unreviewed"
+    },
+    "HRD-32": {
+      "url": "art/hoardings/HRD-32.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "brand"
+      ],
+      "c": "#ae997a",
+      "e": "#b49776",
+      "kannada": "unreviewed"
+    },
+    "HRD-AD-01": {
+      "url": "art/hoardings/HRD-AD-01.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "adspace"
+      ],
+      "c": "#563d3f",
+      "e": "#4c333b"
+    },
+    "HRD-AD-02": {
+      "url": "art/hoardings/HRD-AD-02.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "adspace"
+      ],
+      "c": "#ca9332",
+      "e": "#d49b33"
+    },
+    "HRD-AD-03": {
+      "url": "art/hoardings/HRD-AD-03.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "adspace"
+      ],
+      "c": "#446a4f",
+      "e": "#3a634b"
+    },
+    "HRD-AD-04": {
+      "url": "art/hoardings/HRD-AD-04.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "std",
+        "adspace"
+      ],
+      "c": "#ca614b",
+      "e": "#c75843"
+    },
+    "HRD-AD-05": {
+      "url": "art/hoardings/HRD-AD-05.webp",
+      "w": 1024,
+      "h": 354,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "wide",
+        "adspace"
+      ],
+      "c": "#593e3d",
+      "e": "#3f293b"
+    },
+    "HRD-AD-06": {
+      "url": "art/hoardings/HRD-AD-06.webp",
+      "w": 1024,
+      "h": 354,
+      "alpha": false,
+      "category": "hoarding",
+      "tags": [
+        "hoarding",
+        "wide",
+        "adspace"
+      ],
+      "c": "#446676",
+      "e": "#375e78"
+    },
+    "INT-01": {
+      "url": "art/interiors/INT-01.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#865c39",
+      "e": "#916741"
+    },
+    "INT-02": {
+      "url": "art/interiors/INT-02.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#7f654b",
+      "e": "#8a6b4c"
+    },
+    "INT-03": {
+      "url": "art/interiors/INT-03.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#7b654e",
+      "e": "#7c6b56"
+    },
+    "INT-04": {
+      "url": "art/interiors/INT-04.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#896c52",
+      "e": "#907258"
+    },
+    "INT-05": {
+      "url": "art/interiors/INT-05.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#8c6342",
+      "e": "#a17854"
+    },
+    "INT-06": {
+      "url": "art/interiors/INT-06.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#926e49",
+      "e": "#9b7752"
+    },
+    "INT-07": {
+      "url": "art/interiors/INT-07.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#826344",
+      "e": "#826244"
+    },
+    "INT-08": {
+      "url": "art/interiors/INT-08.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#8a6e54",
+      "e": "#937558"
+    },
+    "INT-09": {
+      "url": "art/interiors/INT-09.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#67543e",
+      "e": "#6e563e"
+    },
+    "INT-10": {
+      "url": "art/interiors/INT-10.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#765e47",
+      "e": "#876c52"
+    },
+    "INT-11": {
+      "url": "art/interiors/INT-11.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#975833",
+      "e": "#96572e"
+    },
+    "INT-12": {
+      "url": "art/interiors/INT-12.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#856034",
+      "e": "#906836"
+    },
+    "INT-13": {
+      "url": "art/interiors/INT-13.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#7e5629",
+      "e": "#79542c"
+    },
+    "INT-14": {
+      "url": "art/interiors/INT-14.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#885e37",
+      "e": "#7c5533"
+    },
+    "INT-15": {
+      "url": "art/interiors/INT-15.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#71553d",
+      "e": "#6e523a"
+    },
+    "INT-16": {
+      "url": "art/interiors/INT-16.webp",
+      "w": 1024,
+      "h": 768,
+      "alpha": false,
+      "category": "interior",
+      "tags": [
+        "interior",
+        "std",
+        "shopfront"
+      ],
+      "c": "#6d3719",
+      "e": "#68391c"
+    },
+    "LMK-DET-01": {
+      "url": "art/details/LMK-DET-01.webp",
+      "w": 512,
+      "h": 274,
+      "alpha": true,
+      "category": "detail",
+      "tags": [
+        "detail",
+        "std"
+      ],
+      "c": "#8a7762",
+      "e": "#9f8c75"
+    },
+    "LMK-DET-02": {
+      "url": "art/details/LMK-DET-02.webp",
+      "w": 512,
+      "h": 437,
+      "alpha": true,
+      "category": "detail",
+      "tags": [
+        "detail",
+        "std"
+      ],
+      "c": "#3b3a3c",
+      "e": "#373638"
+    },
+    "LMK-DET-03": {
+      "url": "art/details/LMK-DET-03.webp",
+      "w": 512,
+      "h": 505,
+      "alpha": true,
+      "category": "detail",
+      "tags": [
+        "detail",
+        "std"
+      ],
+      "c": "#433c36",
+      "e": "#3a3430"
+    },
+    "LMK-DET-04": {
+      "url": "art/details/LMK-DET-04.webp",
+      "w": 512,
+      "h": 511,
+      "alpha": true,
+      "category": "detail",
+      "tags": [
+        "detail",
+        "std"
+      ],
+      "c": "#645b54",
+      "e": "#5a524b"
+    },
+    "LMK-WIN-01": {
+      "url": "art/windows/LMK-WIN-01.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "win"
+      ],
+      "c": "#76542e",
+      "e": "#805c35"
+    },
+    "LMK-WIN-02": {
+      "url": "art/windows/LMK-WIN-02.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "win"
+      ],
+      "c": "#b49874",
+      "e": "#ac9274"
+    },
+    "LMK-WIN-03": {
+      "url": "art/windows/LMK-WIN-03.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "win"
+      ],
+      "c": "#61310a",
+      "e": "#4f280c"
+    },
+    "LMK-WIN-04": {
+      "url": "art/windows/LMK-WIN-04.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "win"
+      ],
+      "c": "#8c7371",
+      "e": "#987c79"
+    },
+    "LMK-WIN-05": {
+      "url": "art/windows/LMK-WIN-05.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "win"
+      ],
+      "c": "#4d3b29",
+      "e": "#523b24"
+    },
+    "LMK-WIN-06": {
+      "url": "art/windows/LMK-WIN-06.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "win"
+      ],
+      "c": "#794d23",
+      "e": "#774b26"
+    },
+    "MUR-01": {
+      "url": "art/murals/MUR-01.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#6e7d51",
+      "e": "#6d7f56"
+    },
+    "MUR-02": {
+      "url": "art/murals/MUR-02.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#a88346",
+      "e": "#99824c"
+    },
+    "MUR-03": {
+      "url": "art/murals/MUR-03.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#927745",
+      "e": "#aa763e"
+    },
+    "MUR-04": {
+      "url": "art/murals/MUR-04.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#9f673b",
+      "e": "#9b693b"
+    },
+    "MUR-05": {
+      "url": "art/murals/MUR-05.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#91865f",
+      "e": "#95855b"
+    },
+    "MUR-06": {
+      "url": "art/murals/MUR-06.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#8a7459",
+      "e": "#947859"
+    },
+    "MUR-07": {
+      "url": "art/murals/MUR-07.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#a78e5c",
+      "e": "#9d8c59"
+    },
+    "MUR-08": {
+      "url": "art/murals/MUR-08.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#a68579",
+      "e": "#92706c"
+    },
+    "MUR-09": {
+      "url": "art/murals/MUR-09.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#977e57",
+      "e": "#8f7a5c"
+    },
+    "MUR-10": {
+      "url": "art/murals/MUR-10.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#918051",
+      "e": "#8f8155"
+    },
+    "MUR-11": {
+      "url": "art/murals/MUR-11.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#a67e51",
+      "e": "#9e7f56"
+    },
+    "MUR-12": {
+      "url": "art/murals/MUR-12.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "mural",
+      "tags": [
+        "mural",
+        "std",
+        "wall",
+        "landmark"
+      ],
+      "c": "#887e52",
+      "e": "#7a7b52"
+    },
+    "POST-01": {
+      "url": "art/posters/POST-01.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "film"
+      ],
+      "c": "#a67140",
+      "e": "#a57b4f",
+      "kannada": "unreviewed"
+    },
+    "POST-02": {
+      "url": "art/posters/POST-02.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "film"
+      ],
+      "c": "#a0775e",
+      "e": "#9d7c66",
+      "kannada": "unreviewed"
+    },
+    "POST-03": {
+      "url": "art/posters/POST-03.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "film"
+      ],
+      "c": "#9f7e45",
+      "e": "#9e7d3e",
+      "kannada": "unreviewed"
+    },
+    "POST-04": {
+      "url": "art/posters/POST-04.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "film"
+      ],
+      "c": "#554435",
+      "e": "#574031",
+      "kannada": "unreviewed"
+    },
+    "POST-05": {
+      "url": "art/posters/POST-05.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#a97750",
+      "e": "#a36e51"
+    },
+    "POST-06": {
+      "url": "art/posters/POST-06.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#a2754c",
+      "e": "#9d6a37"
+    },
+    "POST-07": {
+      "url": "art/posters/POST-07.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#c68c5b",
+      "e": "#c58654"
+    },
+    "POST-08": {
+      "url": "art/posters/POST-08.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#a2976e",
+      "e": "#9b8f69"
+    },
+    "POST-09": {
+      "url": "art/posters/POST-09.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#7c4a39",
+      "e": "#563b34"
+    },
+    "POST-10": {
+      "url": "art/posters/POST-10.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#818269",
+      "e": "#7b7c6c"
+    },
+    "POST-11": {
+      "url": "art/posters/POST-11.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "story"
+      ],
+      "c": "#718063",
+      "e": "#61745d"
+    },
+    "POST-12": {
+      "url": "art/posters/POST-12.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#b48473",
+      "e": "#aa8375"
+    },
+    "POST-13": {
+      "url": "art/posters/POST-13.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#a78351",
+      "e": "#a8844d"
+    },
+    "POST-14": {
+      "url": "art/posters/POST-14.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#766953",
+      "e": "#786b51"
+    },
+    "POST-15": {
+      "url": "art/posters/POST-15.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#999474",
+      "e": "#938e76"
+    },
+    "POST-16": {
+      "url": "art/posters/POST-16.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "political"
+      ],
+      "c": "#859271",
+      "e": "#7c8d6d"
+    },
+    "POST-17": {
+      "url": "art/posters/POST-17.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#926a52",
+      "e": "#947353"
+    },
+    "POST-18": {
+      "url": "art/posters/POST-18.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#9f8857",
+      "e": "#a5854d"
+    },
+    "POST-19": {
+      "url": "art/posters/POST-19.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall",
+        "film"
+      ],
+      "c": "#926641",
+      "e": "#796046"
+    },
+    "POST-20": {
+      "url": "art/posters/POST-20.webp",
+      "w": 512,
+      "h": 683,
+      "alpha": false,
+      "category": "poster",
+      "tags": [
+        "poster",
+        "tall",
+        "wall"
+      ],
+      "c": "#a68965",
+      "e": "#ab8d6d"
+    },
+    "POST-COL-01": {
+      "url": "art/poster-collages/POST-COL-01.webp",
+      "w": 512,
+      "h": 255,
+      "alpha": true,
+      "category": "collage",
+      "tags": [
+        "collage",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#a07f58",
+      "e": "#a6825e"
+    },
+    "POST-COL-02": {
+      "url": "art/poster-collages/POST-COL-02.webp",
+      "w": 512,
+      "h": 242,
+      "alpha": true,
+      "category": "collage",
+      "tags": [
+        "collage",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#a17954",
+      "e": "#ad7f59"
+    },
+    "POST-COL-03": {
+      "url": "art/poster-collages/POST-COL-03.webp",
+      "w": 512,
+      "h": 242,
+      "alpha": true,
+      "category": "collage",
+      "tags": [
+        "collage",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#a57a56",
+      "e": "#a27b5e"
+    },
+    "POST-COL-04": {
+      "url": "art/poster-collages/POST-COL-04.webp",
+      "w": 512,
+      "h": 254,
+      "alpha": true,
+      "category": "collage",
+      "tags": [
+        "collage",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#997a56",
+      "e": "#997755"
+    },
+    "POST-COL-05": {
+      "url": "art/poster-collages/POST-COL-05.webp",
+      "w": 512,
+      "h": 244,
+      "alpha": true,
+      "category": "collage",
+      "tags": [
+        "collage",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#9d7a5c",
+      "e": "#aa7a5d"
+    },
+    "POST-COL-06": {
+      "url": "art/poster-collages/POST-COL-06.webp",
+      "w": 512,
+      "h": 255,
+      "alpha": true,
+      "category": "collage",
+      "tags": [
+        "collage",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#9b7e59",
+      "e": "#a0845f"
+    },
+    "POST-COL-07": {
+      "url": "art/poster-collages/POST-COL-07.webp",
+      "w": 512,
+      "h": 248,
+      "alpha": true,
+      "category": "collage",
+      "tags": [
+        "collage",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#997b5e",
+      "e": "#9d715b"
+    },
+    "POST-COL-08": {
+      "url": "art/poster-collages/POST-COL-08.webp",
+      "w": 512,
+      "h": 248,
+      "alpha": true,
+      "category": "collage",
+      "tags": [
+        "collage",
+        "std",
+        "wall",
+        "alpha"
+      ],
+      "c": "#92755a",
+      "e": "#986d50"
+    },
+    "SHOP-01": {
+      "url": "art/shop-signs/SHOP-01.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food",
+        "landmark"
+      ],
+      "c": "#a08e42",
+      "e": "#998e43",
+      "kannada": "unreviewed"
+    },
+    "SHOP-01_2": {
+      "url": "art/shop-signs/SHOP-01_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food",
+        "landmark"
+      ],
+      "c": "#a18545",
+      "e": "#9b8348",
+      "kannada": "unreviewed"
+    },
+    "SHOP-02": {
+      "url": "art/shop-signs/SHOP-02.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#af5236",
+      "e": "#a54a2a",
+      "kannada": "unreviewed"
+    },
+    "SHOP-02_2": {
+      "url": "art/shop-signs/SHOP-02_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#ab5a40",
+      "e": "#a2573a",
+      "kannada": "unreviewed"
+    },
+    "SHOP-03": {
+      "url": "art/shop-signs/SHOP-03.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#9c7356",
+      "e": "#8e553e",
+      "kannada": "unreviewed"
+    },
+    "SHOP-03_2": {
+      "url": "art/shop-signs/SHOP-03_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#9a724f",
+      "e": "#925c3e",
+      "kannada": "unreviewed"
+    },
+    "SHOP-04": {
+      "url": "art/shop-signs/SHOP-04.webp",
+      "w": 768,
+      "h": 288,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "landmark"
+      ],
+      "c": "#a3815d",
+      "e": "#9b8d69",
+      "kannada": "unreviewed"
+    },
+    "SHOP-04_2": {
+      "url": "art/shop-signs/SHOP-04_2.webp",
+      "w": 768,
+      "h": 288,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "landmark"
+      ],
+      "c": "#9e7c58",
+      "e": "#978460",
+      "kannada": "unreviewed"
+    },
+    "SHOP-05": {
+      "url": "art/shop-signs/SHOP-05.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#8f9278",
+      "e": "#848c69",
+      "kannada": "unreviewed"
+    },
+    "SHOP-05_2": {
+      "url": "art/shop-signs/SHOP-05_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#95896f",
+      "e": "#908261",
+      "kannada": "unreviewed"
+    },
+    "SHOP-06": {
+      "url": "art/shop-signs/SHOP-06.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#67987b",
+      "e": "#42846d",
+      "kannada": "unreviewed"
+    },
+    "SHOP-06_2": {
+      "url": "art/shop-signs/SHOP-06_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#778f70",
+      "e": "#627c64",
+      "kannada": "unreviewed"
+    },
+    "SHOP-07": {
+      "url": "art/shop-signs/SHOP-07.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#a58b65",
+      "e": "#91835c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-07_2": {
+      "url": "art/shop-signs/SHOP-07_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#a1825f",
+      "e": "#957c5a",
+      "kannada": "unreviewed"
+    },
+    "SHOP-08": {
+      "url": "art/shop-signs/SHOP-08.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#bd8064",
+      "e": "#cd7255",
+      "kannada": "unreviewed"
+    },
+    "SHOP-08_2": {
+      "url": "art/shop-signs/SHOP-08_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#b37e62",
+      "e": "#bc7457",
+      "kannada": "unreviewed"
+    },
+    "SHOP-09": {
+      "url": "art/shop-signs/SHOP-09.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#907d57",
+      "e": "#776f5d",
+      "kannada": "unreviewed"
+    },
+    "SHOP-09_2": {
+      "url": "art/shop-signs/SHOP-09_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#937b58",
+      "e": "#85715d",
+      "kannada": "unreviewed"
+    },
+    "SHOP-10": {
+      "url": "art/shop-signs/SHOP-10.webp",
+      "w": 768,
+      "h": 279,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#a37048",
+      "e": "#995c39",
+      "kannada": "unreviewed"
+    },
+    "SHOP-10_2": {
+      "url": "art/shop-signs/SHOP-10_2.webp",
+      "w": 768,
+      "h": 279,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#a06f48",
+      "e": "#97613e",
+      "kannada": "unreviewed"
+    },
+    "SHOP-11": {
+      "url": "art/shop-signs/SHOP-11.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#c16b41",
+      "e": "#b76941",
+      "kannada": "unreviewed"
+    },
+    "SHOP-11_2": {
+      "url": "art/shop-signs/SHOP-11_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#bb6f44",
+      "e": "#af6f47",
+      "kannada": "unreviewed"
+    },
+    "SHOP-12": {
+      "url": "art/shop-signs/SHOP-12.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#9c6b43",
+      "e": "#935c2f",
+      "kannada": "unreviewed"
+    },
+    "SHOP-12_2": {
+      "url": "art/shop-signs/SHOP-12_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#9f7049",
+      "e": "#9c673d",
+      "kannada": "unreviewed"
+    },
+    "SHOP-13": {
+      "url": "art/shop-signs/SHOP-13.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#b88545",
+      "e": "#aa9341",
+      "kannada": "unreviewed"
+    },
+    "SHOP-13_2": {
+      "url": "art/shop-signs/SHOP-13_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#b37c4a",
+      "e": "#a9854c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-14": {
+      "url": "art/shop-signs/SHOP-14.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#a19a4f",
+      "e": "#929e3c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-14_2": {
+      "url": "art/shop-signs/SHOP-14_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#9f8a50",
+      "e": "#938745",
+      "kannada": "unreviewed"
+    },
+    "SHOP-15": {
+      "url": "art/shop-signs/SHOP-15.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#b87a33",
+      "e": "#b96c2b",
+      "kannada": "unreviewed"
+    },
+    "SHOP-15_2": {
+      "url": "art/shop-signs/SHOP-15_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#b17b40",
+      "e": "#ae713d",
+      "kannada": "unreviewed"
+    },
+    "SHOP-16": {
+      "url": "art/shop-signs/SHOP-16.webp",
+      "w": 768,
+      "h": 279,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#927636",
+      "e": "#7e7731",
+      "kannada": "unreviewed"
+    },
+    "SHOP-16_2": {
+      "url": "art/shop-signs/SHOP-16_2.webp",
+      "w": 768,
+      "h": 279,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#98723f",
+      "e": "#8d713e",
+      "kannada": "unreviewed"
+    },
+    "SHOP-17": {
+      "url": "art/shop-signs/SHOP-17.webp",
+      "w": 768,
+      "h": 279,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#a36742",
+      "e": "#974f32",
+      "kannada": "unreviewed"
+    },
+    "SHOP-17_2": {
+      "url": "art/shop-signs/SHOP-17_2.webp",
+      "w": 768,
+      "h": 283,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#a36b49",
+      "e": "#9c5b3f",
+      "kannada": "unreviewed"
+    },
+    "SHOP-18": {
+      "url": "art/shop-signs/SHOP-18.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#857156",
+      "e": "#7c7753",
+      "kannada": "unreviewed"
+    },
+    "SHOP-18_2": {
+      "url": "art/shop-signs/SHOP-18_2.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#8d714e",
+      "e": "#89764c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-19": {
+      "url": "art/shop-signs/SHOP-19.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#957855",
+      "e": "#877d54",
+      "kannada": "unreviewed"
+    },
+    "SHOP-19_2": {
+      "url": "art/shop-signs/SHOP-19_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#93724e",
+      "e": "#89744d",
+      "kannada": "unreviewed"
+    },
+    "SHOP-20": {
+      "url": "art/shop-signs/SHOP-20.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#a87a62",
+      "e": "#be7a4c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-20_2": {
+      "url": "art/shop-signs/SHOP-20_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#a57a5f",
+      "e": "#b57d51",
+      "kannada": "unreviewed"
+    },
+    "SHOP-21": {
+      "url": "art/shop-signs/SHOP-21.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#af7c4d",
+      "e": "#a37456",
+      "kannada": "unreviewed"
+    },
+    "SHOP-21_2": {
+      "url": "art/shop-signs/SHOP-21_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#b17d4a",
+      "e": "#a87851",
+      "kannada": "unreviewed"
+    },
+    "SHOP-22": {
+      "url": "art/shop-signs/SHOP-22.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#b16940",
+      "e": "#b77342",
+      "kannada": "unreviewed"
+    },
+    "SHOP-22_2": {
+      "url": "art/shop-signs/SHOP-22_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#ac633f",
+      "e": "#aa6a42",
+      "kannada": "unreviewed"
+    },
+    "SHOP-23": {
+      "url": "art/shop-signs/SHOP-23.webp",
+      "w": 768,
+      "h": 288,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#9c9161",
+      "e": "#909365",
+      "kannada": "unreviewed"
+    },
+    "SHOP-23_2": {
+      "url": "art/shop-signs/SHOP-23_2.webp",
+      "w": 768,
+      "h": 288,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#9f8558",
+      "e": "#978258",
+      "kannada": "unreviewed"
+    },
+    "SHOP-24": {
+      "url": "art/shop-signs/SHOP-24.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#9b9971",
+      "e": "#909b86",
+      "kannada": "unreviewed"
+    },
+    "SHOP-24_2": {
+      "url": "art/shop-signs/SHOP-24_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#9e9066",
+      "e": "#978f72",
+      "kannada": "unreviewed"
+    },
+    "SHOP-25": {
+      "url": "art/shop-signs/SHOP-25.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#81a89f",
+      "e": "#72a19b",
+      "kannada": "unreviewed"
+    },
+    "SHOP-25_2": {
+      "url": "art/shop-signs/SHOP-25_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#8f957e",
+      "e": "#898b74",
+      "kannada": "unreviewed"
+    },
+    "SHOP-26": {
+      "url": "art/shop-signs/SHOP-26.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#91aca0",
+      "e": "#8ca89a",
+      "kannada": "unreviewed"
+    },
+    "SHOP-26_2": {
+      "url": "art/shop-signs/SHOP-26_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#919884",
+      "e": "#939078",
+      "kannada": "unreviewed"
+    },
+    "SHOP-27": {
+      "url": "art/shop-signs/SHOP-27.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#948274",
+      "e": "#8b7e6a",
+      "kannada": "unreviewed"
+    },
+    "SHOP-27_2": {
+      "url": "art/shop-signs/SHOP-27_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#977d68",
+      "e": "#93785d",
+      "kannada": "unreviewed"
+    },
+    "SHOP-28": {
+      "url": "art/shop-signs/SHOP-28.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "landmark"
+      ],
+      "c": "#7f9069",
+      "e": "#738a73",
+      "kannada": "unreviewed"
+    },
+    "SHOP-28_2": {
+      "url": "art/shop-signs/SHOP-28_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "landmark"
+      ],
+      "c": "#847d56",
+      "e": "#7c755a",
+      "kannada": "unreviewed"
+    },
+    "SHOP-29": {
+      "url": "art/shop-signs/SHOP-29.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "landmark"
+      ],
+      "c": "#9c846a",
+      "e": "#948260",
+      "kannada": "unreviewed"
+    },
+    "SHOP-29_2": {
+      "url": "art/shop-signs/SHOP-29_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "landmark"
+      ],
+      "c": "#9d7d5f",
+      "e": "#9b7b57",
+      "kannada": "unreviewed"
+    },
+    "SHOP-30": {
+      "url": "art/shop-signs/SHOP-30.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#ab7f5e",
+      "e": "#958668",
+      "kannada": "unreviewed"
+    },
+    "SHOP-30_2": {
+      "url": "art/shop-signs/SHOP-30_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#a57654",
+      "e": "#957a5a",
+      "kannada": "unreviewed"
+    },
+    "SHOP-31": {
+      "url": "art/shop-signs/SHOP-31.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#8a957f",
+      "e": "#728675",
+      "kannada": "unreviewed"
+    },
+    "SHOP-31_2": {
+      "url": "art/shop-signs/SHOP-31_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#8d8b6e",
+      "e": "#7d7e64",
+      "kannada": "unreviewed"
+    },
+    "SHOP-32": {
+      "url": "art/shop-signs/SHOP-32.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food",
+        "landmark"
+      ],
+      "c": "#8b6b3d",
+      "e": "#a17334",
+      "kannada": "unreviewed"
+    },
+    "SHOP-32_2": {
+      "url": "art/shop-signs/SHOP-32_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food",
+        "landmark"
+      ],
+      "c": "#8d6b41",
+      "e": "#a2733d",
+      "kannada": "unreviewed"
+    },
+    "SHOP-33": {
+      "url": "art/shop-signs/SHOP-33.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#a96c4e",
+      "e": "#9c6645",
+      "kannada": "unreviewed"
+    },
+    "SHOP-33_2": {
+      "url": "art/shop-signs/SHOP-33_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#a86e4f",
+      "e": "#9e6b4b",
+      "kannada": "unreviewed"
+    },
+    "SHOP-34": {
+      "url": "art/shop-signs/SHOP-34.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#908762",
+      "e": "#7b7951",
+      "kannada": "unreviewed"
+    },
+    "SHOP-34_2": {
+      "url": "art/shop-signs/SHOP-34_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#967d57",
+      "e": "#8b734c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-35": {
+      "url": "art/shop-signs/SHOP-35.webp",
+      "w": 768,
+      "h": 288,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#6c7b54",
+      "e": "#60704f",
+      "kannada": "unreviewed"
+    },
+    "SHOP-35_2": {
+      "url": "art/shop-signs/SHOP-35_2.webp",
+      "w": 768,
+      "h": 288,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#7b7c58",
+      "e": "#757252",
+      "kannada": "unreviewed"
+    },
+    "SHOP-36": {
+      "url": "art/shop-signs/SHOP-36.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#739679",
+      "e": "#6e9279",
+      "kannada": "unreviewed"
+    },
+    "SHOP-36_2": {
+      "url": "art/shop-signs/SHOP-36_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#74886b",
+      "e": "#738368",
+      "kannada": "unreviewed"
+    },
+    "SHOP-37": {
+      "url": "art/shop-signs/SHOP-37.webp",
+      "w": 768,
+      "h": 288,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#91906f",
+      "e": "#858766",
+      "kannada": "unreviewed"
+    },
+    "SHOP-37_2": {
+      "url": "art/shop-signs/SHOP-37_2.webp",
+      "w": 768,
+      "h": 288,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#95835f",
+      "e": "#8e7956",
+      "kannada": "unreviewed"
+    },
+    "SHOP-38": {
+      "url": "art/shop-signs/SHOP-38.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#9aa486",
+      "e": "#a5aa82",
+      "kannada": "unreviewed"
+    },
+    "SHOP-38_2": {
+      "url": "art/shop-signs/SHOP-38_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#938e71",
+      "e": "#9a8c68",
+      "kannada": "unreviewed"
+    },
+    "SHOP-39": {
+      "url": "art/shop-signs/SHOP-39.webp",
+      "w": 768,
+      "h": 279,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#9c8b4b",
+      "e": "#8f8a4f",
+      "kannada": "unreviewed"
+    },
+    "SHOP-39_2": {
+      "url": "art/shop-signs/SHOP-39_2.webp",
+      "w": 768,
+      "h": 279,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#9d8149",
+      "e": "#95804e",
+      "kannada": "unreviewed"
+    },
+    "SHOP-40": {
+      "url": "art/shop-signs/SHOP-40.webp",
+      "w": 768,
+      "h": 288,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#97ac92",
+      "e": "#93a989",
+      "kannada": "unreviewed"
+    },
+    "SHOP-40_2": {
+      "url": "art/shop-signs/SHOP-40_2.webp",
+      "w": 768,
+      "h": 289,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#969777",
+      "e": "#95906b",
+      "kannada": "unreviewed"
+    },
+    "SHOP-41": {
+      "url": "art/shop-signs/SHOP-41.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh"
+      ],
+      "c": "#828743",
+      "e": "#91893e",
+      "kannada": "unreviewed"
+    },
+    "SHOP-41_2": {
+      "url": "art/shop-signs/SHOP-41_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded"
+      ],
+      "c": "#8a814d",
+      "e": "#9c824c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-42": {
+      "url": "art/shop-signs/SHOP-42.webp",
+      "w": 768,
+      "h": 279,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#a79555",
+      "e": "#a98e3e",
+      "kannada": "unreviewed"
+    },
+    "SHOP-42_2": {
+      "url": "art/shop-signs/SHOP-42_2.webp",
+      "w": 768,
+      "h": 279,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#a28c5a",
+      "e": "#a3854b",
+      "kannada": "unreviewed"
+    },
+    "SHOP-43": {
+      "url": "art/shop-signs/SHOP-43.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "landmark"
+      ],
+      "c": "#7c997c",
+      "e": "#8c9a71",
+      "kannada": "unreviewed"
+    },
+    "SHOP-43_2": {
+      "url": "art/shop-signs/SHOP-43_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "landmark"
+      ],
+      "c": "#858861",
+      "e": "#97885b",
+      "kannada": "unreviewed"
+    },
+    "SHOP-44": {
+      "url": "art/shop-signs/SHOP-44.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "landmark"
+      ],
+      "c": "#ac7545",
+      "e": "#be7641",
+      "kannada": "unreviewed"
+    },
+    "SHOP-44_2": {
+      "url": "art/shop-signs/SHOP-44_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "landmark"
+      ],
+      "c": "#a3764a",
+      "e": "#ae774a",
+      "kannada": "unreviewed"
+    },
+    "SHOP-45": {
+      "url": "art/shop-signs/SHOP-45.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "food"
+      ],
+      "c": "#a08b52",
+      "e": "#888a55",
+      "kannada": "unreviewed"
+    },
+    "SHOP-45_2": {
+      "url": "art/shop-signs/SHOP-45_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "food"
+      ],
+      "c": "#a0834f",
+      "e": "#917f4e",
+      "kannada": "unreviewed"
+    },
+    "SHOP-46": {
+      "url": "art/shop-signs/SHOP-46.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "fresh",
+        "landmark"
+      ],
+      "c": "#525047",
+      "e": "#2d3131",
+      "kannada": "unreviewed"
+    },
+    "SHOP-46_2": {
+      "url": "art/shop-signs/SHOP-46_2.webp",
+      "w": 768,
+      "h": 256,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "wide",
+        "shopfront",
+        "faded",
+        "landmark"
+      ],
+      "c": "#6f634a",
+      "e": "#756747",
+      "kannada": "unreviewed"
+    },
+    "SHOP-47": {
+      "url": "art/shop-signs/SHOP-47.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "fresh",
+        "plaque"
+      ],
+      "c": "#4d4432",
+      "e": "#433e31",
+      "kannada": "unreviewed"
+    },
+    "SHOP-47_2": {
+      "url": "art/shop-signs/SHOP-47_2.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "faded",
+        "plaque"
+      ],
+      "c": "#64553f",
+      "e": "#6a5a46",
+      "kannada": "unreviewed"
+    },
+    "SHOP-48": {
+      "url": "art/shop-signs/SHOP-48.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "fresh",
+        "plaque"
+      ],
+      "c": "#4e412a",
+      "e": "#40382c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-48_2": {
+      "url": "art/shop-signs/SHOP-48_2.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "faded",
+        "plaque"
+      ],
+      "c": "#67533b",
+      "e": "#695743",
+      "kannada": "unreviewed"
+    },
+    "SHOP-49": {
+      "url": "art/shop-signs/SHOP-49.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "fresh",
+        "plaque"
+      ],
+      "c": "#605647",
+      "e": "#5f5647",
+      "kannada": "unreviewed"
+    },
+    "SHOP-49_2": {
+      "url": "art/shop-signs/SHOP-49_2.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "faded",
+        "plaque"
+      ],
+      "c": "#6a5c48",
+      "e": "#72614c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-50": {
+      "url": "art/shop-signs/SHOP-50.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "fresh",
+        "plaque"
+      ],
+      "c": "#584f3b",
+      "e": "#5b5137",
+      "kannada": "unreviewed"
+    },
+    "SHOP-50_2": {
+      "url": "art/shop-signs/SHOP-50_2.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "faded",
+        "plaque"
+      ],
+      "c": "#6b5c47",
+      "e": "#79664c",
+      "kannada": "unreviewed"
+    },
+    "SHOP-51": {
+      "url": "art/shop-signs/SHOP-51.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "fresh",
+        "plaque"
+      ],
+      "c": "#4f4533",
+      "e": "#504636",
+      "kannada": "unreviewed"
+    },
+    "SHOP-51_2": {
+      "url": "art/shop-signs/SHOP-51_2.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "faded",
+        "plaque"
+      ],
+      "c": "#675339",
+      "e": "#735b3e",
+      "kannada": "unreviewed"
+    },
+    "SHOP-52": {
+      "url": "art/shop-signs/SHOP-52.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "fresh",
+        "plaque"
+      ],
+      "c": "#5d5a58",
+      "e": "#6d6965",
+      "kannada": "unreviewed"
+    },
+    "SHOP-52_2": {
+      "url": "art/shop-signs/SHOP-52_2.webp",
+      "w": 768,
+      "h": 384,
+      "alpha": false,
+      "category": "shopsign",
+      "tags": [
+        "shopsign",
+        "std",
+        "shopfront",
+        "faded",
+        "plaque"
+      ],
+      "c": "#695c4e",
+      "e": "#7d6a58",
+      "kannada": "unreviewed"
+    },
+    "SKY-DAY-01": {
+      "url": "art/sky/SKY-DAY-01.webp",
+      "w": 2048,
+      "h": 504,
+      "alpha": true,
+      "category": "sky",
+      "tags": [
+        "sky",
+        "wide",
+        "day"
+      ],
+      "c": "#726b50",
+      "e": "#605e3d"
+    },
+    "SKY-DUSK-01": {
+      "url": "art/sky/SKY-DUSK-01.webp",
+      "w": 2048,
+      "h": 506,
+      "alpha": true,
+      "category": "sky",
+      "tags": [
+        "sky",
+        "wide",
+        "dusk"
+      ],
+      "c": "#6d472f",
+      "e": "#563b24"
+    },
+    "SKY-NIGHT-01": {
+      "url": "art/sky/SKY-NIGHT-01.webp",
+      "w": 2018,
+      "h": 512,
+      "alpha": true,
+      "category": "sky",
+      "tags": [
+        "sky",
+        "wide",
+        "night"
+      ],
+      "c": "#152639",
+      "e": "#101e2d"
+    },
+    "TEX-01": {
+      "url": "art/textures/TEX-01.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#b09782",
+      "e": "#b09782"
+    },
+    "TEX-02": {
+      "url": "art/textures/TEX-02.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#9c8263",
+      "e": "#9d8365"
+    },
+    "TEX-03": {
+      "url": "art/textures/TEX-03.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#8c7e6f",
+      "e": "#8c7f6f"
+    },
+    "TEX-04": {
+      "url": "art/textures/TEX-04.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#ae4e35",
+      "e": "#ae4e35"
+    },
+    "TEX-05": {
+      "url": "art/textures/TEX-05.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#a49982",
+      "e": "#a59a82"
+    },
+    "TEX-06": {
+      "url": "art/textures/TEX-06.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#b55a37",
+      "e": "#b45937"
+    },
+    "TEX-07": {
+      "url": "art/textures/TEX-07.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#a3876b",
+      "e": "#a1866a"
+    },
+    "TEX-08": {
+      "url": "art/textures/TEX-08.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#436692",
+      "e": "#446691"
+    },
+    "TEX-09": {
+      "url": "art/textures/TEX-09.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#7c7970",
+      "e": "#7d7970"
+    },
+    "TEX-10": {
+      "url": "art/textures/TEX-10.webp",
+      "w": 1024,
+      "h": 512,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#40615f",
+      "e": "#38585a"
+    },
+    "TEX-11": {
+      "url": "art/textures/TEX-11.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#a26145",
+      "e": "#a36245"
+    },
+    "TEX-12": {
+      "url": "art/textures/TEX-12.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#8d785d",
+      "e": "#8c775c"
+    },
+    "TEX-13": {
+      "url": "art/textures/TEX-13.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#9c755b",
+      "e": "#a78063"
+    },
+    "TEX-14": {
+      "url": "art/textures/TEX-14.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#5b8cbb",
+      "e": "#5a8dbf"
+    },
+    "TEX-15": {
+      "url": "art/textures/TEX-15.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#a6733b",
+      "e": "#a6743a"
+    },
+    "TEX-16": {
+      "url": "art/textures/TEX-16.webp",
+      "w": 1024,
+      "h": 256,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "wide",
+        "tiling"
+      ],
+      "c": "#ba9d79",
+      "e": "#af9473"
+    },
+    "TEX-17a": {
+      "url": "art/textures/TEX-17a.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#a9bfa0",
+      "e": "#a9be9f"
+    },
+    "TEX-17b": {
+      "url": "art/textures/TEX-17b.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#df8f85",
+      "e": "#df9086"
+    },
+    "TEX-17c": {
+      "url": "art/textures/TEX-17c.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#e9b65c",
+      "e": "#e6b461"
+    },
+    "TEX-17d": {
+      "url": "art/textures/TEX-17d.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#8aabbe",
+      "e": "#8eabbb"
+    },
+    "TEX-18": {
+      "url": "art/textures/TEX-18.webp",
+      "w": 1024,
+      "h": 1024,
+      "alpha": false,
+      "category": "texture",
+      "tags": [
+        "texture",
+        "std",
+        "tiling"
+      ],
+      "c": "#ccc6c1",
+      "e": "#cbc6c0"
+    },
+    "UI-APP-01": {
+      "url": "art/ui/UI-APP-01.webp",
+      "w": 1058,
+      "h": 1044,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#fedbbd",
+      "e": "#fdfaf1"
+    },
+    "UI-APP-02": {
+      "url": "art/ui/UI-APP-02.webp",
+      "w": 1012,
+      "h": 1012,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#d4eee6",
+      "e": "#fcfbf2"
+    },
+    "UI-APP-03": {
+      "url": "art/ui/UI-APP-03.webp",
+      "w": 985,
+      "h": 980,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#e1e1b3",
+      "e": "#fcf9e9"
+    },
+    "UI-APP-04": {
+      "url": "art/ui/UI-APP-04.webp",
+      "w": 985,
+      "h": 958,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#a6a5a1",
+      "e": "#f9f6ee"
+    },
+    "UI-APP-05": {
+      "url": "art/ui/UI-APP-05.webp",
+      "w": 1017,
+      "h": 1002,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#e0c974",
+      "e": "#fcf6dd"
+    },
+    "UI-APP-06": {
+      "url": "art/ui/UI-APP-06.webp",
+      "w": 1052,
+      "h": 1047,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#d2ece0",
+      "e": "#faf9f0"
+    },
+    "UI-APP-07": {
+      "url": "art/ui/UI-APP-07.webp",
+      "w": 1008,
+      "h": 999,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#c0e5c5",
+      "e": "#fcfcf4"
+    },
+    "UI-APP-08": {
+      "url": "art/ui/UI-APP-08.webp",
+      "w": 1030,
+      "h": 1031,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#d6dbc6",
+      "e": "#fcfcf5"
+    },
+    "UI-APP-09": {
+      "url": "art/ui/UI-APP-09.webp",
+      "w": 1062,
+      "h": 1049,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#eed7a9",
+      "e": "#fbf7ec"
+    },
+    "UI-APP-10": {
+      "url": "art/ui/UI-APP-10.webp",
+      "w": 1064,
+      "h": 1056,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#f2cfcd",
+      "e": "#fcf8f2"
+    },
+    "UI-APP-11": {
+      "url": "art/ui/UI-APP-11.webp",
+      "w": 1118,
+      "h": 1118,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#a1a89c",
+      "e": "#efebdb"
+    },
+    "UI-APP-12": {
+      "url": "art/ui/UI-APP-12.webp",
+      "w": 1039,
+      "h": 1037,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#e8b49f",
+      "e": "#fbefdd"
+    },
+    "UI-APP-13": {
+      "url": "art/ui/UI-APP-13.webp",
+      "w": 1088,
+      "h": 1087,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#eccb94",
+      "e": "#faedd1"
+    },
+    "UI-APP-14": {
+      "url": "art/ui/UI-APP-14.webp",
+      "w": 1095,
+      "h": 1092,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#aac8cc",
+      "e": "#edede1"
+    },
+    "UI-APP-15": {
+      "url": "art/ui/UI-APP-15.webp",
+      "w": 1104,
+      "h": 1104,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "app"
+      ],
+      "c": "#bab6be",
+      "e": "#f1ece2"
+    },
+    "UI-BADGE-01": {
+      "url": "art/ui/UI-BADGE-01.webp",
+      "w": 1223,
+      "h": 1192,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#8f7a41",
+      "e": "#9f7d39",
+      "t": "art/ui/UI-BADGE-01.t.webp"
+    },
+    "UI-BADGE-02": {
+      "url": "art/ui/UI-BADGE-02.webp",
+      "w": 1190,
+      "h": 1214,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#968b47",
+      "e": "#b29041",
+      "t": "art/ui/UI-BADGE-02.t.webp"
+    },
+    "UI-BADGE-03": {
+      "url": "art/ui/UI-BADGE-03.webp",
+      "w": 1187,
+      "h": 1195,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#8c7e42",
+      "e": "#a9843a",
+      "t": "art/ui/UI-BADGE-03.t.webp"
+    },
+    "UI-BADGE-04": {
+      "url": "art/ui/UI-BADGE-04.webp",
+      "w": 1190,
+      "h": 1188,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#9b803b",
+      "e": "#b48f3b",
+      "t": "art/ui/UI-BADGE-04.t.webp"
+    },
+    "UI-BADGE-05": {
+      "url": "art/ui/UI-BADGE-05.webp",
+      "w": 1183,
+      "h": 1193,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#947848",
+      "e": "#b58a3f",
+      "t": "art/ui/UI-BADGE-05.t.webp"
+    },
+    "UI-BADGE-06": {
+      "url": "art/ui/UI-BADGE-06.webp",
+      "w": 1186,
+      "h": 1196,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#a18749",
+      "e": "#a57f3b",
+      "t": "art/ui/UI-BADGE-06.t.webp"
+    },
+    "UI-BADGE-07": {
+      "url": "art/ui/UI-BADGE-07.webp",
+      "w": 1185,
+      "h": 1192,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#978d51",
+      "e": "#b38e3e",
+      "t": "art/ui/UI-BADGE-07.t.webp"
+    },
+    "UI-BADGE-08": {
+      "url": "art/ui/UI-BADGE-08.webp",
+      "w": 1185,
+      "h": 1196,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#7c8563",
+      "e": "#908354",
+      "t": "art/ui/UI-BADGE-08.t.webp"
+    },
+    "UI-BADGE-09": {
+      "url": "art/ui/UI-BADGE-09.webp",
+      "w": 1193,
+      "h": 1189,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#806f40",
+      "e": "#9b813d",
+      "t": "art/ui/UI-BADGE-09.t.webp"
+    },
+    "UI-BADGE-10": {
+      "url": "art/ui/UI-BADGE-10.webp",
+      "w": 1182,
+      "h": 1193,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#8d8553",
+      "e": "#a68a47",
+      "t": "art/ui/UI-BADGE-10.t.webp"
+    },
+    "UI-BADGE-11": {
+      "url": "art/ui/UI-BADGE-11.webp",
+      "w": 1181,
+      "h": 1193,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#947d45",
+      "e": "#ae863f",
+      "t": "art/ui/UI-BADGE-11.t.webp"
+    },
+    "UI-BADGE-12": {
+      "url": "art/ui/UI-BADGE-12.webp",
+      "w": 1182,
+      "h": 1196,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#91753f",
+      "e": "#a78237",
+      "t": "art/ui/UI-BADGE-12.t.webp"
+    },
+    "UI-BADGE-13": {
+      "url": "art/ui/UI-BADGE-13.webp",
+      "w": 1227,
+      "h": 1193,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#a18246",
+      "e": "#a88545",
+      "t": "art/ui/UI-BADGE-13.t.webp"
+    },
+    "UI-BADGE-14": {
+      "url": "art/ui/UI-BADGE-14.webp",
+      "w": 1183,
+      "h": 1194,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#9c8040",
+      "e": "#aa8337",
+      "t": "art/ui/UI-BADGE-14.t.webp"
+    },
+    "UI-BADGE-15": {
+      "url": "art/ui/UI-BADGE-15.webp",
+      "w": 1193,
+      "h": 1194,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#9a8745",
+      "e": "#b08d3c",
+      "t": "art/ui/UI-BADGE-15.t.webp"
+    },
+    "UI-BADGE-16": {
+      "url": "art/ui/UI-BADGE-16.webp",
+      "w": 1204,
+      "h": 1180,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "badge"
+      ],
+      "c": "#a1873d",
+      "e": "#b68b34",
+      "t": "art/ui/UI-BADGE-16.t.webp"
+    },
+    "UI-CH1": {
+      "url": "art/ui/UI-CH1.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "ch1"
+      ],
+      "c": "#907f5f",
+      "e": "#887d64"
+    },
+    "UI-END1": {
+      "url": "art/ui/UI-END1.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "end1"
+      ],
+      "c": "#5c5349",
+      "e": "#564e47"
+    },
+    "UI-FRAME-01": {
+      "url": "art/ui/UI-FRAME-01.webp",
+      "w": 1614,
+      "h": 883,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "frame"
+      ],
+      "c": "#cccab4",
+      "e": "#d4cfb5"
+    },
+    "UI-FRAME-02": {
+      "url": "art/ui/UI-FRAME-02.webp",
+      "w": 1377,
+      "h": 910,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "frame"
+      ],
+      "c": "#cbbda0",
+      "e": "#c9ba9c"
+    },
+    "UI-FRAME-03": {
+      "url": "art/ui/UI-FRAME-03.webp",
+      "w": 1668,
+      "h": 935,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "frame"
+      ],
+      "c": "#2e2518",
+      "e": "#292116"
+    },
+    "UI-FRAME-04": {
+      "url": "art/ui/UI-FRAME-04.webp",
+      "w": 674,
+      "h": 913,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "frame"
+      ],
+      "c": "#826f4a",
+      "e": "#857352"
+    },
+    "UI-KAN-01": {
+      "url": "art/ui/UI-KAN-01.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#7e603f",
+      "e": "#957446",
+      "t": "art/ui/UI-KAN-01.t.webp"
+    },
+    "UI-KAN-02": {
+      "url": "art/ui/UI-KAN-02.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#8d673a",
+      "e": "#8a6539",
+      "t": "art/ui/UI-KAN-02.t.webp"
+    },
+    "UI-KAN-03": {
+      "url": "art/ui/UI-KAN-03.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#9e8157",
+      "e": "#a28757",
+      "t": "art/ui/UI-KAN-03.t.webp"
+    },
+    "UI-KAN-04": {
+      "url": "art/ui/UI-KAN-04.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#917c55",
+      "e": "#8c774f",
+      "t": "art/ui/UI-KAN-04.t.webp"
+    },
+    "UI-KAN-05": {
+      "url": "art/ui/UI-KAN-05.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#a08663",
+      "e": "#9f8c6b",
+      "t": "art/ui/UI-KAN-05.t.webp"
+    },
+    "UI-KAN-06": {
+      "url": "art/ui/UI-KAN-06.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#816c50",
+      "e": "#72644d",
+      "t": "art/ui/UI-KAN-06.t.webp"
+    },
+    "UI-KAN-07": {
+      "url": "art/ui/UI-KAN-07.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#b38e66",
+      "e": "#c49761",
+      "t": "art/ui/UI-KAN-07.t.webp"
+    },
+    "UI-KAN-08": {
+      "url": "art/ui/UI-KAN-08.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#896446",
+      "e": "#8e5e34",
+      "t": "art/ui/UI-KAN-08.t.webp"
+    },
+    "UI-KAN-09": {
+      "url": "art/ui/UI-KAN-09.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#8c6b47",
+      "e": "#8c6c46",
+      "t": "art/ui/UI-KAN-09.t.webp"
+    },
+    "UI-KAN-10": {
+      "url": "art/ui/UI-KAN-10.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#9c6f51",
+      "e": "#a06f49",
+      "t": "art/ui/UI-KAN-10.t.webp"
+    },
+    "UI-KAN-11": {
+      "url": "art/ui/UI-KAN-11.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#977f5e",
+      "e": "#957b56",
+      "t": "art/ui/UI-KAN-11.t.webp"
+    },
+    "UI-KAN-12": {
+      "url": "art/ui/UI-KAN-12.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#a08563",
+      "e": "#9c8364",
+      "t": "art/ui/UI-KAN-12.t.webp"
+    },
+    "UI-KAN-13": {
+      "url": "art/ui/UI-KAN-13.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#84704b",
+      "e": "#98865c",
+      "t": "art/ui/UI-KAN-13.t.webp"
+    },
+    "UI-KAN-14": {
+      "url": "art/ui/UI-KAN-14.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#b48853",
+      "e": "#cf9a52",
+      "t": "art/ui/UI-KAN-14.t.webp"
+    },
+    "UI-KAN-15": {
+      "url": "art/ui/UI-KAN-15.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#9f8561",
+      "e": "#99886b",
+      "t": "art/ui/UI-KAN-15.t.webp"
+    },
+    "UI-KAN-16": {
+      "url": "art/ui/UI-KAN-16.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#a7875f",
+      "e": "#a58862",
+      "t": "art/ui/UI-KAN-16.t.webp"
+    },
+    "UI-KAN-17": {
+      "url": "art/ui/UI-KAN-17.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#9f815a",
+      "e": "#af8b5d",
+      "t": "art/ui/UI-KAN-17.t.webp"
+    },
+    "UI-KAN-18": {
+      "url": "art/ui/UI-KAN-18.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#a38159",
+      "e": "#9a7d57",
+      "t": "art/ui/UI-KAN-18.t.webp"
+    },
+    "UI-KAN-19": {
+      "url": "art/ui/UI-KAN-19.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#8f6c3e",
+      "e": "#846843",
+      "t": "art/ui/UI-KAN-19.t.webp"
+    },
+    "UI-KAN-20": {
+      "url": "art/ui/UI-KAN-20.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#aa7d49",
+      "e": "#b0854e",
+      "t": "art/ui/UI-KAN-20.t.webp"
+    },
+    "UI-KAN-21": {
+      "url": "art/ui/UI-KAN-21.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#a57d55",
+      "e": "#a47e54",
+      "t": "art/ui/UI-KAN-21.t.webp"
+    },
+    "UI-KAN-22": {
+      "url": "art/ui/UI-KAN-22.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#7b6849",
+      "e": "#786945",
+      "t": "art/ui/UI-KAN-22.t.webp"
+    },
+    "UI-KAN-23": {
+      "url": "art/ui/UI-KAN-23.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#968662",
+      "e": "#978860",
+      "t": "art/ui/UI-KAN-23.t.webp"
+    },
+    "UI-KAN-24": {
+      "url": "art/ui/UI-KAN-24.webp",
+      "w": 1086,
+      "h": 1448,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "kan"
+      ],
+      "c": "#ae855d",
+      "e": "#ce985c",
+      "t": "art/ui/UI-KAN-24.t.webp"
+    },
+    "UI-KEY-01": {
+      "url": "art/ui/UI-KEY-01.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "key"
+      ],
+      "c": "#735239",
+      "e": "#785339"
+    },
+    "UI-KEY-02": {
+      "url": "art/ui/UI-KEY-02.webp",
+      "w": 941,
+      "h": 1672,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "key"
+      ],
+      "c": "#7b573d",
+      "e": "#815a3e"
+    },
+    "UI-LOAD-01": {
+      "url": "art/ui/UI-LOAD-01.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#705b4f",
+      "e": "#675449"
+    },
+    "UI-LOAD-02": {
+      "url": "art/ui/UI-LOAD-02.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#9c7659",
+      "e": "#927153"
+    },
+    "UI-LOAD-03": {
+      "url": "art/ui/UI-LOAD-03.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#483533",
+      "e": "#3a2c2d"
+    },
+    "UI-LOAD-04": {
+      "url": "art/ui/UI-LOAD-04.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#5b4237",
+      "e": "#524136"
+    },
+    "UI-LOAD-05": {
+      "url": "art/ui/UI-LOAD-05.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#906c4d",
+      "e": "#906b4d"
+    },
+    "UI-LOAD-06": {
+      "url": "art/ui/UI-LOAD-06.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#735336",
+      "e": "#6d5133"
+    },
+    "UI-LOAD-07": {
+      "url": "art/ui/UI-LOAD-07.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#7d5f3d",
+      "e": "#7c6546"
+    },
+    "UI-LOAD-08": {
+      "url": "art/ui/UI-LOAD-08.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#6b492a",
+      "e": "#5a3f2b"
+    },
+    "UI-LOAD-09": {
+      "url": "art/ui/UI-LOAD-09.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#806846",
+      "e": "#735d3e"
+    },
+    "UI-LOAD-10": {
+      "url": "art/ui/UI-LOAD-10.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "load"
+      ],
+      "c": "#7a5245",
+      "e": "#754d44"
+    },
+    "UI-LOGO-BHOOMI": {
+      "url": "art/ui/UI-LOGO-BHOOMI.webp",
+      "w": 1132,
+      "h": 1116,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "logo"
+      ],
+      "c": "#859a59",
+      "e": "#949b5c"
+    },
+    "UI-LOGO-SKY": {
+      "url": "art/ui/UI-LOGO-SKY.webp",
+      "w": 1017,
+      "h": 1112,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "logo"
+      ],
+      "c": "#827e66",
+      "e": "#939276"
+    },
+    "UI-MENU-BG": {
+      "url": "art/ui/UI-MENU-BG.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "menu"
+      ],
+      "c": "#6e4c45",
+      "e": "#513d3d"
+    },
+    "UI-MIS-01": {
+      "url": "art/ui/UI-MIS-01.webp",
+      "w": 1672,
+      "h": 940,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "mis"
+      ],
+      "c": "#907658",
+      "e": "#897259"
+    },
+    "UI-MIS-02": {
+      "url": "art/ui/UI-MIS-02.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "mis"
+      ],
+      "c": "#967b5e",
+      "e": "#9e8162"
+    },
+    "UI-MIS-03": {
+      "url": "art/ui/UI-MIS-03.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "mis"
+      ],
+      "c": "#735b4c",
+      "e": "#796056"
+    },
+    "UI-MIS-04": {
+      "url": "art/ui/UI-MIS-04.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "mis"
+      ],
+      "c": "#7c5b3e",
+      "e": "#815f41"
+    },
+    "UI-MIS-05": {
+      "url": "art/ui/UI-MIS-05.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "mis"
+      ],
+      "c": "#9e7d5a",
+      "e": "#b18b62"
+    },
+    "UI-MIS-06": {
+      "url": "art/ui/UI-MIS-06.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "mis"
+      ],
+      "c": "#8d7e72",
+      "e": "#918781"
+    },
+    "UI-MIS-07": {
+      "url": "art/ui/UI-MIS-07.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "mis"
+      ],
+      "c": "#7c5331",
+      "e": "#7a4a25"
+    },
+    "UI-MIS-08": {
+      "url": "art/ui/UI-MIS-08.webp",
+      "w": 1672,
+      "h": 941,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "mis"
+      ],
+      "c": "#795338",
+      "e": "#6b4c36"
+    },
+    "UI-PARTY": {
+      "url": "art/ui/UI-PARTY.webp",
+      "w": 1110,
+      "h": 1108,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "party"
+      ],
+      "c": "#498168",
+      "e": "#587846"
+    },
+    "UI-POR-01": {
+      "url": "art/ui/UI-POR-01.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#8f7c5f",
+      "e": "#8e8770"
+    },
+    "UI-POR-02": {
+      "url": "art/ui/UI-POR-02.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#a0806d",
+      "e": "#b4998a"
+    },
+    "UI-POR-03": {
+      "url": "art/ui/UI-POR-03.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#ac8557",
+      "e": "#bf9a69"
+    },
+    "UI-POR-04": {
+      "url": "art/ui/UI-POR-04.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#946f55",
+      "e": "#a4816b"
+    },
+    "UI-POR-05": {
+      "url": "art/ui/UI-POR-05.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#9c8258",
+      "e": "#a3946b"
+    },
+    "UI-POR-06": {
+      "url": "art/ui/UI-POR-06.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#a87662",
+      "e": "#b58a7a"
+    },
+    "UI-POR-07": {
+      "url": "art/ui/UI-POR-07.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#a78968",
+      "e": "#ac977b"
+    },
+    "UI-POR-08": {
+      "url": "art/ui/UI-POR-08.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#92785b",
+      "e": "#9a876d"
+    },
+    "UI-POR-09": {
+      "url": "art/ui/UI-POR-09.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#c39656",
+      "e": "#cda96c"
+    },
+    "UI-POR-10": {
+      "url": "art/ui/UI-POR-10.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#aa9b7b",
+      "e": "#baae8f"
+    },
+    "UI-POR-11": {
+      "url": "art/ui/UI-POR-11.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#92755c",
+      "e": "#8c7966"
+    },
+    "UI-POR-12": {
+      "url": "art/ui/UI-POR-12.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#9b8b7a",
+      "e": "#a7a096"
+    },
+    "UI-POR-13": {
+      "url": "art/ui/UI-POR-13.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#ba8363",
+      "e": "#b98368"
+    },
+    "UI-POR-14": {
+      "url": "art/ui/UI-POR-14.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#937962",
+      "e": "#a58e78"
+    },
+    "UI-POR-15": {
+      "url": "art/ui/UI-POR-15.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#938964",
+      "e": "#9c9671"
+    },
+    "UI-POR-16": {
+      "url": "art/ui/UI-POR-16.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "por"
+      ],
+      "c": "#d1ae8d",
+      "e": "#f7d3b8"
+    },
+    "UI-RADIO-01": {
+      "url": "art/ui/UI-RADIO-01.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "radio"
+      ],
+      "c": "#e9b8ae",
+      "e": "#fcf2e6",
+      "t": "art/ui/UI-RADIO-01.t.webp"
+    },
+    "UI-RADIO-02": {
+      "url": "art/ui/UI-RADIO-02.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "radio"
+      ],
+      "c": "#bcc3b2",
+      "e": "#ecede1",
+      "t": "art/ui/UI-RADIO-02.t.webp"
+    },
+    "UI-RADIO-03": {
+      "url": "art/ui/UI-RADIO-03.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "radio"
+      ],
+      "c": "#d5b7a1",
+      "e": "#f6eadc",
+      "t": "art/ui/UI-RADIO-03.t.webp"
+    },
+    "UI-RADIO-04": {
+      "url": "art/ui/UI-RADIO-04.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "radio"
+      ],
+      "c": "#d7bdb8",
+      "e": "#f2e8df",
+      "t": "art/ui/UI-RADIO-04.t.webp"
+    },
+    "UI-RADIO-05": {
+      "url": "art/ui/UI-RADIO-05.webp",
+      "w": 1254,
+      "h": 1254,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "radio"
+      ],
+      "c": "#d6ccb6",
+      "e": "#fefaf0",
+      "t": "art/ui/UI-RADIO-05.t.webp"
+    },
+    "UI-STAMP-01": {
+      "url": "art/ui/UI-STAMP-01.webp",
+      "w": 1196,
+      "h": 1179,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#8c3402",
+      "e": "#8e3102",
+      "t": "art/ui/UI-STAMP-01.t.webp"
+    },
+    "UI-STAMP-02": {
+      "url": "art/ui/UI-STAMP-02.webp",
+      "w": 1147,
+      "h": 1147,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#6b2701",
+      "e": "#702301",
+      "t": "art/ui/UI-STAMP-02.t.webp"
+    },
+    "UI-STAMP-03": {
+      "url": "art/ui/UI-STAMP-03.webp",
+      "w": 1201,
+      "h": 1183,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#7d3201",
+      "e": "#7f2f01",
+      "t": "art/ui/UI-STAMP-03.t.webp"
+    },
+    "UI-STAMP-04": {
+      "url": "art/ui/UI-STAMP-04.webp",
+      "w": 1186,
+      "h": 1169,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#802e02",
+      "e": "#852a02",
+      "t": "art/ui/UI-STAMP-04.t.webp"
+    },
+    "UI-STAMP-05": {
+      "url": "art/ui/UI-STAMP-05.webp",
+      "w": 1186,
+      "h": 1166,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#7c2c00",
+      "e": "#7b2e00",
+      "t": "art/ui/UI-STAMP-05.t.webp"
+    },
+    "UI-STAMP-06": {
+      "url": "art/ui/UI-STAMP-06.webp",
+      "w": 1136,
+      "h": 1120,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#813000",
+      "e": "#832e00",
+      "t": "art/ui/UI-STAMP-06.t.webp"
+    },
+    "UI-STAMP-07": {
+      "url": "art/ui/UI-STAMP-07.webp",
+      "w": 1195,
+      "h": 1192,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#763100",
+      "e": "#782d00",
+      "t": "art/ui/UI-STAMP-07.t.webp"
+    },
+    "UI-STAMP-08": {
+      "url": "art/ui/UI-STAMP-08.webp",
+      "w": 1195,
+      "h": 1193,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#7a2f01",
+      "e": "#7d2d01",
+      "t": "art/ui/UI-STAMP-08.t.webp"
+    },
+    "UI-STAMP-09": {
+      "url": "art/ui/UI-STAMP-09.webp",
+      "w": 1217,
+      "h": 1203,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#824301",
+      "e": "#832f00",
+      "t": "art/ui/UI-STAMP-09.t.webp"
+    },
+    "UI-STAMP-10": {
+      "url": "art/ui/UI-STAMP-10.webp",
+      "w": 1206,
+      "h": 1201,
+      "alpha": true,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "std",
+        "stamp"
+      ],
+      "c": "#782e01",
+      "e": "#7c2d00",
+      "t": "art/ui/UI-STAMP-10.t.webp"
+    },
+    "UI-WALL-01": {
+      "url": "art/ui/UI-WALL-01.webp",
+      "w": 853,
+      "h": 1844,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "wall"
+      ],
+      "c": "#8f7b52",
+      "e": "#7b6b4a",
+      "t": "art/ui/UI-WALL-01.t.webp"
+    },
+    "UI-WALL-02": {
+      "url": "art/ui/UI-WALL-02.webp",
+      "w": 853,
+      "h": 1844,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "wall"
+      ],
+      "c": "#b1854e",
+      "e": "#a36f3e",
+      "t": "art/ui/UI-WALL-02.t.webp"
+    },
+    "UI-WALL-03": {
+      "url": "art/ui/UI-WALL-03.webp",
+      "w": 853,
+      "h": 1844,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "wall"
+      ],
+      "c": "#e18944",
+      "e": "#d6783e",
+      "t": "art/ui/UI-WALL-03.t.webp"
+    },
+    "UI-WALL-04": {
+      "url": "art/ui/UI-WALL-04.webp",
+      "w": 852,
+      "h": 1846,
+      "alpha": false,
+      "category": "ui",
+      "tags": [
+        "ui",
+        "tall",
+        "wall"
+      ],
+      "c": "#a18662",
+      "e": "#9a8e7a",
+      "t": "art/ui/UI-WALL-04.t.webp"
+    },
+    "VEH-AUTO-01": {
+      "url": "art/vehicles/VEH-AUTO-01.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#b38529",
+      "e": "#b58e1c",
+      "kannada": "unreviewed"
+    },
+    "VEH-AUTO-02": {
+      "url": "art/vehicles/VEH-AUTO-02.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#927e36",
+      "e": "#a9822d",
+      "kannada": "unreviewed"
+    },
+    "VEH-AUTO-03": {
+      "url": "art/vehicles/VEH-AUTO-03.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#8d7a3c",
+      "e": "#977c32",
+      "kannada": "unreviewed"
+    },
+    "VEH-AUTO-04": {
+      "url": "art/vehicles/VEH-AUTO-04.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#778a54",
+      "e": "#90995d",
+      "kannada": "unreviewed"
+    },
+    "VEH-AUTO-05": {
+      "url": "art/vehicles/VEH-AUTO-05.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#8e6e3c",
+      "e": "#8e6f41",
+      "kannada": "unreviewed"
+    },
+    "VEH-AUTO-07": {
+      "url": "art/vehicles/VEH-AUTO-07.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#e25d03",
+      "e": "#dd5c03",
+      "kannada": "unreviewed"
+    },
+    "VEH-AUTO-08": {
+      "url": "art/vehicles/VEH-AUTO-08.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#907c2d",
+      "e": "#7e7522",
+      "kannada": "unreviewed"
+    },
+    "VEH-AUTO-09": {
+      "url": "art/vehicles/VEH-AUTO-09.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#6f733b",
+      "e": "#6b6b2b",
+      "kannada": "unreviewed"
+    },
+    "VEH-AUTO-10": {
+      "url": "art/vehicles/VEH-AUTO-10.webp",
+      "w": 512,
+      "h": 256,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#978a43",
+      "e": "#948028",
+      "kannada": "unreviewed"
+    },
+    "VEH-AUTO-STK-02": {
+      "url": "art/vehicles/VEH-AUTO-STK-02.webp",
+      "w": 512,
+      "h": 339,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#a49234",
+      "e": "#8d8329"
+    },
+    "VEH-AUTO-STK-05": {
+      "url": "art/vehicles/VEH-AUTO-STK-05.webp",
+      "w": 441,
+      "h": 512,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#da7262",
+      "e": "#d46b52"
+    },
+    "VEH-AUTO-STK-06": {
+      "url": "art/vehicles/VEH-AUTO-STK-06.webp",
+      "w": 512,
+      "h": 261,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#d58b1d",
+      "e": "#b46916"
+    },
+    "VEH-AUTO-STK-07": {
+      "url": "art/vehicles/VEH-AUTO-STK-07.webp",
+      "w": 417,
+      "h": 512,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "auto"
+      ],
+      "c": "#a77848",
+      "e": "#98704a"
+    },
+    "VEH-BAG-01": {
+      "url": "art/vehicles/VEH-BAG-01.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "bag"
+      ],
+      "c": "#faa662",
+      "e": "#fa8d35"
+    },
+    "VEH-BAG-02": {
+      "url": "art/vehicles/VEH-BAG-02.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "bag"
+      ],
+      "c": "#b6baa8",
+      "e": "#b2a691"
+    },
+    "VEH-BAG-03": {
+      "url": "art/vehicles/VEH-BAG-03.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "bag"
+      ],
+      "c": "#d8ab26",
+      "e": "#f5b907"
+    },
+    "VEH-BAG-04": {
+      "url": "art/vehicles/VEH-BAG-04.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "bag"
+      ],
+      "c": "#a18165",
+      "e": "#a37351"
+    },
+    "VEH-BUS-01": {
+      "url": "art/vehicles/VEH-BUS-01.webp",
+      "w": 1024,
+      "h": 341,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "wide",
+        "bus"
+      ],
+      "c": "#8a946f",
+      "e": "#838857"
+    },
+    "VEH-CAR-STK-01": {
+      "url": "art/vehicles/VEH-CAR-STK-01.webp",
+      "w": 512,
+      "h": 511,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "car"
+      ],
+      "c": "#98a17f",
+      "e": "#71815c"
+    },
+    "VEH-CAR-STK-02": {
+      "url": "art/vehicles/VEH-CAR-STK-02.webp",
+      "w": 512,
+      "h": 296,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "car"
+      ],
+      "c": "#df846d",
+      "e": "#f1a083"
+    },
+    "VEH-CAR-STK-03": {
+      "url": "art/vehicles/VEH-CAR-STK-03.webp",
+      "w": 512,
+      "h": 460,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "car"
+      ],
+      "c": "#b2a58a",
+      "e": "#8f8978"
+    },
+    "VEH-CAR-STK-04": {
+      "url": "art/vehicles/VEH-CAR-STK-04.webp",
+      "w": 512,
+      "h": 509,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "car"
+      ],
+      "c": "#ae7611",
+      "e": "#9f7013"
+    },
+    "VEH-CAR-STK-06": {
+      "url": "art/vehicles/VEH-CAR-STK-06.webp",
+      "w": 512,
+      "h": 505,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "car"
+      ],
+      "c": "#e4965c",
+      "e": "#e4b26d"
+    },
+    "VEH-CAR-STK-07": {
+      "url": "art/vehicles/VEH-CAR-STK-07.webp",
+      "w": 453,
+      "h": 512,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "car"
+      ],
+      "c": "#c19165",
+      "e": "#cbb185"
+    },
+    "VEH-CAR-STK-08": {
+      "url": "art/vehicles/VEH-CAR-STK-08.webp",
+      "w": 512,
+      "h": 504,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "car"
+      ],
+      "c": "#fac59d",
+      "e": "#f6c29d"
+    },
+    "VEH-SCOOT-01": {
+      "url": "art/vehicles/VEH-SCOOT-01.webp",
+      "w": 512,
+      "h": 341,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "scoot"
+      ],
+      "c": "#e88396",
+      "e": "#e08095"
+    },
+    "VEH-SCOOT-02": {
+      "url": "art/vehicles/VEH-SCOOT-02.webp",
+      "w": 512,
+      "h": 356,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "scoot"
+      ],
+      "c": "#7f7230",
+      "e": "#7e6a2a"
+    },
+    "VEH-SCOOT-03": {
+      "url": "art/vehicles/VEH-SCOOT-03.webp",
+      "w": 512,
+      "h": 325,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "scoot"
+      ],
+      "c": "#157884",
+      "e": "#136974"
+    },
+    "VEH-SCOOT-04": {
+      "url": "art/vehicles/VEH-SCOOT-04.webp",
+      "w": 512,
+      "h": 427,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "scoot"
+      ],
+      "c": "#c89b29",
+      "e": "#b58c28"
+    },
+    "VEH-SCOOT-05": {
+      "url": "art/vehicles/VEH-SCOOT-05.webp",
+      "w": 460,
+      "h": 512,
+      "alpha": true,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "scoot"
+      ],
+      "c": "#034142",
+      "e": "#043738"
+    },
+    "VEH-TRUCK-01": {
+      "url": "art/vehicles/VEH-TRUCK-01.webp",
+      "w": 1024,
+      "h": 341,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "wide",
+        "truck"
+      ],
+      "c": "#9a967d",
+      "e": "#958962"
+    },
+    "VEH-TRUCK-02": {
+      "url": "art/vehicles/VEH-TRUCK-02.webp",
+      "w": 1024,
+      "h": 341,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "wide",
+        "truck"
+      ],
+      "c": "#95513e",
+      "e": "#834c3d"
+    },
+    "VEH-TRUCK-BACK-01": {
+      "url": "art/vehicles/VEH-TRUCK-BACK-01.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "truck"
+      ],
+      "c": "#7b6648",
+      "e": "#755f3f"
+    },
+    "VEH-TRUCK-BACK-02": {
+      "url": "art/vehicles/VEH-TRUCK-BACK-02.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "vehicle",
+      "tags": [
+        "vehicle",
+        "std",
+        "truck"
+      ],
+      "c": "#5e554a",
+      "e": "#595045"
+    },
+    "WALL-AD-01": {
+      "url": "art/wall-ads/WALL-AD-01.webp",
+      "w": 512,
+      "h": 252,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "std",
+        "wall",
+        "painted"
+      ],
+      "c": "#828868",
+      "e": "#6a8474"
+    },
+    "WALL-AD-02": {
+      "url": "art/wall-ads/WALL-AD-02.webp",
+      "w": 512,
+      "h": 183,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "wide",
+        "wall",
+        "painted"
+      ],
+      "c": "#a98153",
+      "e": "#ad8844"
+    },
+    "WALL-AD-03": {
+      "url": "art/wall-ads/WALL-AD-03.webp",
+      "w": 512,
+      "h": 192,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "wide",
+        "wall",
+        "painted"
+      ],
+      "c": "#807d72",
+      "e": "#78857c"
+    },
+    "WALL-AD-04": {
+      "url": "art/wall-ads/WALL-AD-04.webp",
+      "w": 512,
+      "h": 221,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "std",
+        "wall",
+        "painted"
+      ],
+      "c": "#b26d42",
+      "e": "#b07545"
+    },
+    "WALL-AD-05": {
+      "url": "art/wall-ads/WALL-AD-05.webp",
+      "w": 512,
+      "h": 230,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "std",
+        "wall",
+        "painted"
+      ],
+      "c": "#c88942",
+      "e": "#d4a766"
+    },
+    "WALL-AD-06": {
+      "url": "art/wall-ads/WALL-AD-06.webp",
+      "w": 512,
+      "h": 218,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "std",
+        "wall",
+        "painted"
+      ],
+      "c": "#be7861",
+      "e": "#c27259"
+    },
+    "WALL-AD-07": {
+      "url": "art/wall-ads/WALL-AD-07.webp",
+      "w": 512,
+      "h": 200,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "wide",
+        "wall",
+        "painted"
+      ],
+      "c": "#995d56",
+      "e": "#a9594f"
+    },
+    "WALL-AD-08": {
+      "url": "art/wall-ads/WALL-AD-08.webp",
+      "w": 512,
+      "h": 206,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "std",
+        "wall",
+        "painted"
+      ],
+      "c": "#916b3f",
+      "e": "#94753a"
+    },
+    "WALL-AD-09": {
+      "url": "art/wall-ads/WALL-AD-09.webp",
+      "w": 512,
+      "h": 193,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "wide",
+        "wall",
+        "painted"
+      ],
+      "c": "#b17d46",
+      "e": "#b88540"
+    },
+    "WALL-AD-09_2": {
+      "url": "art/wall-ads/WALL-AD-09_2.webp",
+      "w": 512,
+      "h": 255,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "std",
+        "wall",
+        "painted"
+      ],
+      "c": "#af8f6c",
+      "e": "#b18e68"
+    },
+    "WALL-AD-10": {
+      "url": "art/wall-ads/WALL-AD-10.webp",
+      "w": 512,
+      "h": 203,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "wide",
+        "wall",
+        "painted"
+      ],
+      "c": "#be7e4e",
+      "e": "#c38248"
+    },
+    "WALL-AD-11": {
+      "url": "art/wall-ads/WALL-AD-11.webp",
+      "w": 512,
+      "h": 224,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "std",
+        "wall",
+        "painted"
+      ],
+      "c": "#978359",
+      "e": "#848256"
+    },
+    "WALL-AD-12": {
+      "url": "art/wall-ads/WALL-AD-12.webp",
+      "w": 512,
+      "h": 195,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "wide",
+        "wall",
+        "painted"
+      ],
+      "c": "#ab866d",
+      "e": "#ba916d"
+    },
+    "WALL-AD-14": {
+      "url": "art/wall-ads/WALL-AD-14.webp",
+      "w": 512,
+      "h": 233,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "std",
+        "wall",
+        "painted"
+      ],
+      "c": "#9b745c",
+      "e": "#9d724c",
+      "kannada": "unreviewed"
+    },
+    "WALL-AD-15": {
+      "url": "art/wall-ads/WALL-AD-15.webp",
+      "w": 512,
+      "h": 233,
+      "alpha": true,
+      "category": "wallad",
+      "tags": [
+        "wallad",
+        "std",
+        "wall",
+        "painted"
+      ],
+      "c": "#968566",
+      "e": "#908869"
+    },
+    "WIN-DAY-01": {
+      "url": "art/windows/WIN-DAY-01.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#875d42",
+      "e": "#937253"
+    },
+    "WIN-DAY-02": {
+      "url": "art/windows/WIN-DAY-02.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#84664a",
+      "e": "#876648"
+    },
+    "WIN-DAY-03": {
+      "url": "art/windows/WIN-DAY-03.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#695e4c",
+      "e": "#826746"
+    },
+    "WIN-DAY-04": {
+      "url": "art/windows/WIN-DAY-04.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#94734e",
+      "e": "#957250"
+    },
+    "WIN-DAY-05": {
+      "url": "art/windows/WIN-DAY-05.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#736952",
+      "e": "#847964"
+    },
+    "WIN-DAY-06": {
+      "url": "art/windows/WIN-DAY-06.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#5f5e5e",
+      "e": "#756f67"
+    },
+    "WIN-DAY-07": {
+      "url": "art/windows/WIN-DAY-07.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#604b3c",
+      "e": "#715d4c"
+    },
+    "WIN-DAY-08": {
+      "url": "art/windows/WIN-DAY-08.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#735c3c",
+      "e": "#675948"
+    },
+    "WIN-DAY-09": {
+      "url": "art/windows/WIN-DAY-09.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#9f8466",
+      "e": "#a1876a"
+    },
+    "WIN-DAY-10": {
+      "url": "art/windows/WIN-DAY-10.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#695350",
+      "e": "#6f5a4f"
+    },
+    "WIN-DAY-11": {
+      "url": "art/windows/WIN-DAY-11.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#5b5a4d",
+      "e": "#746d5f"
+    },
+    "WIN-DAY-12": {
+      "url": "art/windows/WIN-DAY-12.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "day"
+      ],
+      "c": "#846450",
+      "e": "#8b6b55"
+    },
+    "WIN-NIGHT-01": {
+      "url": "art/windows/WIN-NIGHT-01.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#5c3223",
+      "e": "#3d2b28"
+    },
+    "WIN-NIGHT-02": {
+      "url": "art/windows/WIN-NIGHT-02.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#4b3723",
+      "e": "#583619"
+    },
+    "WIN-NIGHT-03": {
+      "url": "art/windows/WIN-NIGHT-03.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#322b25",
+      "e": "#4c3224"
+    },
+    "WIN-NIGHT-04": {
+      "url": "art/windows/WIN-NIGHT-04.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#2c221f",
+      "e": "#392a23"
+    },
+    "WIN-NIGHT-05": {
+      "url": "art/windows/WIN-NIGHT-05.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#553e1f",
+      "e": "#38291d"
+    },
+    "WIN-NIGHT-06": {
+      "url": "art/windows/WIN-NIGHT-06.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#433b39",
+      "e": "#342d2d"
+    },
+    "WIN-NIGHT-07": {
+      "url": "art/windows/WIN-NIGHT-07.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#1b1831",
+      "e": "#161726"
+    },
+    "WIN-NIGHT-08": {
+      "url": "art/windows/WIN-NIGHT-08.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#2a2015",
+      "e": "#1d1a16"
+    },
+    "WIN-NIGHT-09": {
+      "url": "art/windows/WIN-NIGHT-09.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#845c36",
+      "e": "#805c40"
+    },
+    "WIN-NIGHT-10": {
+      "url": "art/windows/WIN-NIGHT-10.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#57342b",
+      "e": "#492e26"
+    },
+    "WIN-NIGHT-11": {
+      "url": "art/windows/WIN-NIGHT-11.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#564f42",
+      "e": "#5a5245"
+    },
+    "WIN-NIGHT-12": {
+      "url": "art/windows/WIN-NIGHT-12.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "night"
+      ],
+      "c": "#614033",
+      "e": "#563d32"
+    },
+    "WIN-OFFICE-01": {
+      "url": "art/windows/WIN-OFFICE-01.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "office"
+      ],
+      "c": "#6e4e31",
+      "e": "#5e4433"
+    },
+    "WIN-OFFICE-02": {
+      "url": "art/windows/WIN-OFFICE-02.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "office"
+      ],
+      "c": "#4a3e36",
+      "e": "#4f3728"
+    },
+    "WIN-OFFICE-03": {
+      "url": "art/windows/WIN-OFFICE-03.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "office"
+      ],
+      "c": "#514f48",
+      "e": "#45413d"
+    },
+    "WIN-OFFICE-04": {
+      "url": "art/windows/WIN-OFFICE-04.webp",
+      "w": 512,
+      "h": 512,
+      "alpha": false,
+      "category": "window",
+      "tags": [
+        "window",
+        "std",
+        "office"
+      ],
+      "c": "#392f2d",
+      "e": "#362d2b"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+export{i as Npc}from"./npc-BCzLelTI.js";
