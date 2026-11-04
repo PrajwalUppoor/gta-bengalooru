@@ -1,27 +1,40 @@
 # 🌆 Benglooru (Chapter 1) — GTA Bengalooru
 
-An open-world 3D action adventure game set in **Koramangala, Bengaluru (Bangalore)** running directly in your web browser with pure WebGL, Three.js, and Rapier 3D physics. Voiced in Kanglish with localized city ambience, weather, traffic, and missions.
+An open-world 3D action-adventure game set in **Koramangala, Bengaluru (Bangalore)** running directly in your web browser with pure WebGL, Three.js, and Rapier 3D physics. Voiced in Kanglish with localized city ambience, weather, traffic, and missions.
 
 ---
 
-## 🎮 How to Play
+## ⚡ Non-Technical / 1-Click Launch
 
-### 1. Launch the Game Locally
-Make sure you have [Node.js](https://nodejs.org/) installed (v18+ recommended):
+If you don't use the command line or terminal, you can start the game with a single click:
+
+### 🪟 Windows Users
+1. Download or clone this repository (or click **Code → Download ZIP** on GitHub and extract it).
+2. **Double-click `play-windows.bat`**.
+3. It will automatically detect your local runtime (Node.js or Python), start the server, and open the game in your default browser at `http://localhost:3000/`.
+
+### 🍎 Mac / 🐧 Linux Users
+1. Open the folder and double-click or run `play-mac-linux.sh`.
+2. The game will automatically boot up and open in your browser.
+
+*(If you don't have Node.js or Python installed yet, the launcher will let you know and direct you to the official 1-click installer at [nodejs.org](https://nodejs.org/).)*
+
+---
+
+## 💻 Technical / Developer Launch
+
+If you prefer using the terminal or want to run from source:
 
 ```bash
 # Clone the repository
 git clone https://github.com/PrajwalUppoor/gta-bengalooru.git
 cd gta-bengalooru
 
-# Start the game server
+# Start with Node.js (recommended for sound streaming)
 node server.mjs
 ```
 
-Open your browser and navigate to:
-👉 **`http://localhost:3000/`**
-
-> **Tip:** You can also run any lightweight static server that supports Range headers (e.g. `npx serve .` or `python -m http.server 3000`), though `node server.mjs` is optimized for streaming audio and voiceovers.
+Then open your browser to **`http://localhost:3000/`**.
 
 ---
 
